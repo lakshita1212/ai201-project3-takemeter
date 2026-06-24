@@ -1,0 +1,1076 @@
+text,label,notes
+"US DOL (look at JOLTS reports for more detail) statistics do not bear out the hypothesis that tech jobs are hard to get (demand is still very close to 2021, which was the record).  There is a lot of evidence to support that layoffs are coming mostly from pure ""Tech Companies"", while the rest of the business world is continuing to hire. 94% of companies are saying they will add headcount in 2023...
+
+... So my advice is to look at non-tech companies. Reality is that most companies really have become ""tech companies"", they don't make software or hardware, but have physical products and services -- and often are very technology dependent for operatiions.",analysis,
+"Here, it'll almost always be pre-tax; it's primarily a US-oriented site, and the US has a very complex personal tax regime (in particular, many, many common deductions) where two people with the same pre-tax income might commonly have a very different post-tax income.",analysis,
+"1)  I'm sure every one of these companies got 0% interest rates in 2021 and 2022 from the Federal Reserve. I'm going to wager that the terms of those interest rates had certain hiring quotas. Now that interest rates have increased, I'm sure that the Fed now has lay off quotas.",hot_take,
+"The New York Times
+
+Location: New York, NY
+
+My company is looking for a ton of developers (at least 9) in various levels of experience and departments:
+
+* Senior Software Engineer x2
+
+* Software Engineer x3 (1 in Mobile Applications)
+
+* Creative Technologist
+
+* Web Developer, Senior Web Developer, Web Designer/Developer
+
+Full list with links to detail descriptions:
+http://www.nytimes.com/features/openings/index.html
+
+I'm sure here will be some fun comments about print media dying and the pay-wall etc. but this is platform and web focused. We build a lot of cool fun stuff from our own API's, standalone web apps, social platforms, open source apps, standards, and a lot more mobile stuff on the way too. I've been there many years (web developer) and its a great place to work with many smart people…
+
+Some URLs of note (the fun stuff IMHO):
+
+Open Blog: http://open.blogs.nytimes.com/
+
+NYT APIs: http://developer.nytimes.com/
+
+Times Wire: http://www.nytimes.com/timeswire/index.html (completely developer driven)
+
+Times Skimmer: http://www.nytimes.com/timesskimmer/ (completely developer driven)
+
+Times People: http://timespeople.nytimes.com/view/user/37963625/activities...
+
+Here is a horribly titled NY Mag article on some of the developers in the Newsroom:
+http://nymag.com/news/features/all-new/53344/
+
+Happy to answer questions and update this as I check back but otherwise follow that first link up top.",analysis,
+"Looking for a junior Software Engineer - Java in Singapore.
+(Sorry, must be located in Singapore)
+
+The team at Plunify is seeking a talented and enthusiastic Java developer to help build a cloud computing platform. Work with the latest Web technologies to bridge the gap between the desktop and the cloud. Most importantly, be passionate about creating great software, be able to learn quickly and be a team player.
+
+Your role is to develop, maintain and support Java applications that work with our proprietary platform. Refine and enhance security of existing Java applications. You will also be required to learn and understand how to integrate your applications with various hardware and software systems.
+
+Required:
+- BS/MS CS or related majors. (New graduates welcome) 
+- Strong programming skills in Java
+- Willingness to learn 
+- Fluency in written and spoken English. Any other languages are a bonus!
+- Deep interest in cloud computing
+- Any experience in database/SQL and web scripting technologies, e.g. PHP, Javascript is a plus
+
+Get in touch via recruit at plunify dot com!",analysis,
+"SE Asia had been hit hard for a while. The thing is we never really had a dot com bubble. Unicorns were raising hard, selling $1 stuff for $0.90, outsourcing everything, skyrocketing growth, raised billions, repeat. VCs would frown on companies that were raising money to use it as a warchest, YC style.
+
+It choked out funding for cautious YC style growth especially after Grab acquired Uber operations here. So everyone else did it too, the fake it until you make it mindset became prominent. Eventually everyone runs out of fund sources and have to become profitable, but it's hard when you're now public and used to losing millions every quarter. The costs is often in employees, so waves of layoffs it is.
+
+A lot of it isn't American money, but it's bad timing.",analysis,
+"Hi Throwawaypotato,
+
+I was in a similar position. Non-software company, basically one of two developers in a group whose focus was business. We would occasionally interact with other software teams in other departments to integrate our systems, and I would cherish those moments; but it was clear that across the organization overall view of software was that of a necessary evil.
+
+I tried to convince the group about taking a new approach to how we developed software, to perhaps have more communication between the sparsely distributed software team, I even made a presentation over software processes, how we could improve... nothing ever changed anything. All they really cared was that we made the wishes of the sales team real...
+
+After a year of firefighting, dealing with poor processes, and feeling overall undervalued I resigned to resume my PhD. My advice is that you change to a software company, and in general that you join a company where your role is a first class citizen (I've heard similar complains of friends who are, in say, a finance position within a structural engineering firm).
+
+On the other hand, I left with a strong impression that these type of non-software or software adverse companies are great candidates for companies to either sell services or to directly compete against with more efficient services... perhaps a route I'll one day take.
+
+Cheers!",analysis,
+"Are you gonna tell your product manager that it will take you 5 days to write a linear solution for your feature? O(n). Are you gonna fix a critical bug in production by using a depth first search instead of a breadth first search?
+
+What does it even mean? When are we gonna stop lying to ourselves?
+
+The only way to evaluate someone for a software engineer position is to assign a mini coding project. The result should be a working product, packaged and ready to be shipped.  It will tell you how fast someone can deliver a solution, how someone would design a solution, code quality, performance, etc. It doesn't have to be a gigantic app or website, just a basic working product and not a basic CS coding question that no one cares about. If you're applying for a backend position then it should be about building a backend. If you're applying for a mobile dev then it should be about building a mobile app, etc.
+
+The whole hiring process is a joke, companies like google are focusing too much on college stuff and not enough on reality. Plus look, It's clearly written ""Masters Degree in CS"" on my Resume, that alone should tell you I already got evaluated on basic CS crap. So, let's talk about what I can really do to help your team and the company. What can I bring on the table besides a Masters Degree?",hot_take,
+"They're really making the argument that these big companies full of engineers that engineered much of modern life over the last 20 years are just blindy laying people off like some kind of social contagion? That's not how it works. Companies that big and that reliant on data don't make big decisions without some team of eggheads showing them the numbers and telling them they have to.
+
+And layoffs are a bad idea? Always? Even when sunsetting multiple large projects and downsizing your speculative endeavors? There are whole teams at these companies who's jobs just simply aren't needed anymore. It sucks for them, but to say it's a bad idea for a company to lay off people is just nonsense, there are times when you have to unfortunately.",hot_take,
+"I can really echo the idea of a mock interview with a friend.
+
+Find a friend who will let you do a mock interview with them over a screenshare for 45 minutes. They do not even have to know how to code. Give them a link to the leetcode problem list or similar, tell them to filter the page by , and select a problem at random and message you the link. Solve the problem in front of them like you would in a real interview.
+
+I created a small cheatsheet for my friends who did this for me, as non of them were professional programmers. My cheatsheet was essentially
+
+Step 1: I will read the problem back to you, probably paraphrased in my own words and then ask you to confirm some assumptions. You can say ""yes"" to every assumption I ask you.
+
+Step 2: I will verbalize my thought process to solve the problem. This may involve writing a tiny bit of code to layout the task, but there should not be much code or any yet.
+
+Step 3: I will start actually coding the solution. If I write code for more than 30 seconds without verbalizing my thoughts, alert me. If I'm not writing code but silent for more than a minute, alert me. You don't need to understand what I'm saying or writing, just make sure I am almost always talking.
+
+Step 4: I will try to walk through my finished code step-by-step and make sure it works. Again, you don't need to understand what I'm saying, just make sure I'm always saying something.
+
+--
+
+One last thing that may help ease your mind a bit. Maybe I've just been very lucky with my interviewees, but I've found that communication skills and being able to lay out very clean code as my final answer is just as helpful as actually being able to quickly solve the problem. I've needed a hint from the interviewer a lot of times to solve my question. Simply asking for a hint is obviously not good, but saying something like ""This code won't work in the case where all 3 points make a parallel line, and I'm trying to come up with a solution for that... I feel like there's another way I can visualize this that I'm not seeing right now"" is better.
+
+Good luck, coding tests suck. But you gotta do what you gotta do.",analysis,
+"There is definitely a lot of misunderstanding here.
+
+This provision can and does lead companies to owe significantly more in taxes than they make.
+
+The only reason it hasn't been bigger news, is because most companies are pretending it doesn't exist and just sweeping it under the rug, hoping it will get fixed before enforcement gets serious.",hot_take,
+"I run Technical Operations at Revinate.  We are based in San Francisco but my team is 100% remote.  I'm based in a small town in Kansas.
+
+For 2017, I want to hire more engineers with Kubernetes, CoreOS, and Go experience.  My team has deep Linux systems administration experience but we've automated ourselves out of most of the day-to-day admin work of yesteryear.  Our future hires will be heavily focused on automation.  We've already automated builds, testing, deployment, monitoring, and metrics in a Kube/Docker pipeline.  I expect to automate load balancing and hardware deployment in 2017.  I also expect that we will adapt many of our non-Kubernetes data services for running containerized in Kube.",analysis,
+I haven't been able to work for make money for 2 years now this situation would be deadly for me if my mom wasn't helping me out.,reaction,
+"I had a friend with plenty of experience in HR get laid off.
+
+He looked for a job for 13 months. One of the top 3 smartest people I’ve ever known looked for seven months and had to take a big step back in his career, despite having Amazon and Home Depot on his resume.
+
+Both of them said that even getting an interview was almost impossibly hard.
+
+These are people in different parts of the county, and in different industries.
+
+I think we have a serious problem on our hands with employment that’s probably not getting better any time soon.",analysis,
+"IMHO when companies announce that there is a worker shortage, what they are actually stating is that the negotiating power in the current job market may be shifting away from corporations
+
+These corporations may have started having some issues retaining key employees and discovered that expertise and takent doesn't spring from nowhere, which affects productivity to their surprise as highly skilled employees aren't growing on trees and can't be replaced as soon as their employee leaves. So before they need to do something about working conditions (i.e. absurdly long hours and stressful environment) and wages they instead try to manipulate the job market by requesting a sudden influx of canonfodder to shift the negotiating power back into their hands.",hot_take,
+"I got my current 4 day gig just by being upfront with everyone I interviewed with that that's what I was looking for, and waiting until someone said yes.",analysis,
+"Consider becoming a tradesman or artisan of some kind. General construction labor doesn't pay all that well, and is pretty boring, but if you have the skills, specialty craftsmanship can be very lucrative and fun.
+
+You can make physical things you can be proud of, and you don't have to use a computer. Also, at some level, it is ""design"" work, because even if you don't draw up the plans, you have to make decisions about how things fit best and what works where, &c.",hot_take,
+"META rumoured to be purging by Tuesday.
+
+Calls locked in.",hot_take,
+"Yes, it's really that bad. Even trying to change teams internally at my company is the hardest it's ever been in over a decade of experience.",reaction,
+"I've been in the ML/data space for 20 years and went through the 2008 cycle early in my career. I'm not hiring at the moment but am always happy to review resumes and give career advice as part of networking so feel free to ping me.
+
+Reaching out to managers at big cos won't get you much. They are getting a ton of twitter/etc candidates and have stricter hiring policies and rubrics to prevent nepotism and favoritism. If you can network and ask for referrals through your friends / professors that can work better. Or reaching out to early stage startup cofounders can work really well.
+
+ML/AI is less frozen then some other areas so that is good. Most really competitive new PHDs will have either a couple of internships, strong academic contributions or previous engineering experience demonstrating strong coding ability.
+
+You should also consider post docs or academic engineer postings. The grant cycle insulates these a bit from the economic cycle and they can be a good place to gather some experience while you ride out the cycle.
+
+And definitely consider very early stage start ups. A startup that just raised and has 2 years of runway is probably one of the safest places to be at the moment as they are still focused on growth. A lot of great companies proved themselves as startups during the 2008 cycle and grew rapidly after. Networking can mean a lot more here as early stage founders often literally just hire their friends or people they get along with without a ton of process.",analysis,
+If nothing else would assume they have used GitHub or say 'drop it in teams'.  Even if they have only ever used the cloud there is send a link from my Google or One Drive.  My first answer would be FTP or rsync.  Maybe they are over thinking it and assume they need to get it on another machine without the owner knowing about it IDK.  Maybe it needs to be reworded.  Or follow up if there is no answer and say how did you turn in your homework to the professors or think about how you collaborate with other developers on a project.,hot_take,
+Can someone suggested how I can find remote opportunity for a robotics+software engineer position with a salary of at least $150k while being based in Europe?,reaction,
+"Do you have any say who will you get for an intern? Do you know which areas of your expertise are the ones that intern wants to learn?
+
+Give assignment and provide feedback latter. Have a lot of patience. Things that are self-explanatory to you might be out-of-this-world for intern.
+
+Be a good listener. From questions you can conclude both interests and weak spots.",hot_take,
+Per (1) it might be enduring some pain to wring wfh out of the system and get the workers back into their pens.,hot_take,
+"Keep in mind that H-1Bs are requested in March with starting date in October, so if you were qualified for an H-1B, the earliest date that you could enter the US on that visa would be October 2022.",analysis,
+"Firstly - Make sure you thank them for their honesty.
+
+Secondly - Make sure they see a copy of their review in which you praise their abilities within the team. That will help to reassure them that there are no penalties for not wanting to 'progress'. Slightly OT since it isn't IT related but I once asked a PC (police Constable, aka a British 'Bobby') why they had remained a PC for 25 years (I was curious). Their answer was - Mo' Money, Mo' Problems. In other words they preferred the day to day life and didn't want more Paperwork, more BS and ass-kissing (sadly a prerequisite for ladder climbing) and they really did not want the hassles of managing others. I did a mental re-take and thought fair enough. I am slightly ashamed that my initial ‘hunch’ was because they lacked the skills or abilities to gain a promotion (my bad and I was glad I asked rather than silently assuming/judging).
+
+One thing to think about doing is exploring their responsibilities – Think about their specialities / preferences / interests. If they are a ‘people person’ consider making offering them the role of helping to onboard newcomers on the team. If they have an analytical mind, consider delegating some of the  cost centre analysis work to them. Ensure any unofficial roles are noted positively in their next review so that they can see in black and white their value to the team.",hot_take,
+"When I was interviewing for various dev jobs fresh out of university a couple of years ago, we were discussing salaries at or just below 30k SEK / month. I finally ended up accepting a job with a similar salary, but elsewhere.
+
+If I were you, I would not settle for anything less than 35k. Maybe you can push it to 40k.",analysis,
+"There is this survey from 2017: https://news.ycombinator.com/item?id=15088840
+
+Answers here: https://goo.gl/X45Dtt
+
+Maybe worth a re-post on HN.",analysis,
+"Just tell them you are at an advanced stage with another companies, your timeline is pretty aggressive and if there's a way to skip some steps it would help make it work for both of you.",hot_take,
+"What I'll say after looking for a job for a month now: There aren't many companies who even take the first step of emailing/contacting back after an application. I feel like this, if it was well defined and consistent, then it would be valuable.",reaction,
+I turned on “casually looking for work” or whatever it’s called on Linkedin just because I was curious. I got 4 recruiter messages in a week. Seems like things are fine.,analysis,
+Most likely it will hurt your career. Typically you want a niche technology that is growing rapidly.,hot_take,
+"One of the things that amazed me, the last time I interviewed is the number of companies and recruiters who just stop communicating. Is it too much to ask to send a ""no?"" Shoot, tell me to go jump in the lake, tell me something, don't give me the silent treatment. I can understand if it is a small start-up, but I can believe that recruiters (head hunters) do this as well. I wouldn't be bothered so much if the communication was just email. But once it gets to phone calls or even face to face meetings, then give the person the common courtesy of some closure.",reaction,
+"I'm in sort of the same boat. Developing things and creating software is a means to an end for me. Do I enjoy working for myself? Sure. More so than working for the man. But in the end, it's also so that I can be free from the ties of money.
+
+One thing that I (and some of my other fellow CS graduates) have contemplated is going into teaching. It can be rewarding to teach Math or CS at the local high school, assuming your kids aren't too rowdy.
+
+If you have an interest in photography, that could be a good break. I know several wedding photographers who charge what I would consider a very generous amount - they do a good job, and get tons of business. Personally, I've been interested in photography for a long time, but I'm afraid that I'd start hating it or getting bored of it if it becomes my job. Unfortunately, they spend lots of time in front of the computer editing photos.
+
+Have you thought about anything in the financial field? Data modeling, trends, stuff like that?",reaction,
+"> Notably, “potential” is nowhere on the scale. Many posts talk about hiring entry level engineers on their “potential,” but the term is seldom defined. Most people use “potential” to describe a sense that, even though a candidate currently cannot be an autonomous engineer, someday in the future they could be. We did not attempt to predict the future for any of our candidates but rather evaluated them on what they presented through the interviews.
+
+Well...
+
+> Some of the qualities we looked for in our associates in particular were:
+
+> Resilience: Learning on the job is hard and we assumed that the associates would make mistakes and struggle through difficult concepts. We needed people who could endure these struggles and bounce back ready for the next challenge.
+
+> Willingness to learn and the initiative to do so: Clover would assist the Associates in their growth, and provide teachers and mentors to help along the way, but any incoming Associate would need to be responsible for their own growth.
+
+> Humility: This is an important trait for all Clover engineers, but we paid special attention to it in our Associates. They would have to learn from those around them, be respectful of others, and be able to take difficult feedback with grace.
+
+> ...
+
+> Deciding the technical skills to evaluate was a long process. We expected to teach our Associates most of the technical skills they would need to do their job, but we couldn’t accept candidates that were completely blank slates.
+
+It really sounds like this is measuring the candidate's ""potential"".
+
+I would argue they defined ""potential"" as ""resilience, willingness to learn, and humility"", which they feel is an atypical definition.
+
+(Personally, I think that's a decent set of criteria to look for in entry-level engineers.)",analysis,
+"There is a spreadsheet for France (in French). It's quite Paris-centric, but it gives an idea.
+https://docs.google.com/spreadsheets/d/1Zjvz-Ud2TR3rco2BTq0X...",analysis,
+"I have been in software longer than you (I am 33) and my wife is a doctor. If you think being a programmer feels like ""blue collar work"", wait till you see what being a medical resident is like. Try getting paid $50k/yr, working 80-100 hours a week, and savoring the rare moment you get to take a coffee break or eat a lunch that doesn't come out of a vending machine.
+
+Serious ""grass is greener"" thinking going on in your post.",analysis,
+"You likely won't be able to get work with any firm that has customers in the financial, military, and medical spaces. This rules out a lot of sectors common to the UK and major cities. No hosting companies, Cloud vendors, service/consulting companies of reasonable size, etc.
+
+However there are large industries in the UK that will offer a solid job, the ones that spring to mind are academia and the charity sector. These industries aren't the top paying, and that's exactly why these jobs aren't being fought over. Additionally as you'll not come into direct contact with vulnerable people or children, DBS checks are unlikely to apply and the sector based restrictions like those in the financial industry are not present.
+
+The work in these industries also isn't the most challenging for coding, the challenge is typically it not being funded well enough and having to find cheap and pragmatic solutions you can maintain. In the charitable sector you really need to know Drupal and PHP... and then a mix of how to glue things together, run IT systems, etc. In academia it can be a real mix of work, from IT services, through to website and email services, all the way up to ""PhD student knows what they want to run on a supercomputer but doesn't know how to get it to run efficiently on this (slightly older) supercomputer"".",hot_take,
+"IMO there are two simple reasons:
+
+1) Companies really, really don't want to be doing layoffs. It signals they are in a weak position. But when bunch of other companies do this it becomes a much more available option as there is something to blame (""Recession!"")
+
+2) Companies compete fiercely and up until recently they tried to hire as much people as they could. But now they are finding they onboarded a lot of people and possibly a lot of people they do not want to have and became less efficient in the process. Normally, it is pretty difficult to fire people and it takes a long time and resources to get them on PIP and then push them out. But, hey, there is a faster solution -- just blame recession!
+
+I am looking closely at this recession as I am trying to navigate it financially and professionally and I came to conclusion that it is to a large extent fiction. It is mostly just a bunch of companies jumping on a bandwagon because it is convenient for them for one reason or another. There is no real underlying reason for all this. And if you are not convinced, other than couple tech companies that were just mismanaged and other than valuations, companies seem to  be in a better shape overall than ever.",analysis,
+"There is NO way his ""contacts"" are worth 50% of a startup. As already pointed out there are plenty of investors about that you can meet w/o already signing away half your future revenue!
+
+He needs to offer more than that to be worth that much :)",hot_take,
+"You are worried about income inequality, which is hardly the same thing. Tech workers generally don't have discrete business or political goals that they use their money to influence to their advantage, even if they do have some low millions to low 10's of millions of nominal wealth.
+
+What is more unsustainable, IMO, is the concentration of work. 3 out of 10 men and 4 out of 10 women over 20 year's age in the US are not working. Working far in excess of 40 hours per week is common. US vacation is still generally a paltry 2 weeks, non-mandatory.
+
+And all this, despite continual improvements in productivity over the past century.
+
+Couldn't we collectively reduce our working hours, have more vacation time, and employ more people? That would more fairly disperse the productivity gains of technology and improve many people's lives.
+
+https://www.bls.gov/news.release/empsit.t01.htm",hot_take,
+"No.
+
+What is called ""AI"" today is just brute force machine learning. There is no intelligence, as ChatGPT has amply demonstrated, just blind regurgitation of a black-box statistical analysis of data.
+
+True AI, i.e., the kind of AI in movies, is still several decades away. It's actually further away now than it was 10 years ago, as the brute-force method has pushed AI research into a local maxima that will be difficult to get away from without starting over.",hot_take,
+"Yes. I'm the CEO of Google and I can't even get an internship at Google
+
+But tbh yes, it seems job postings for software jobs are the lowest in 4 years, almost as low as the dip that occurred just after the pandemic. The COVID job boom was clearly temporary and is now being massively offset by AI
+
+https://fred.stlouisfed.org/graph/fredgraph.png?width=880&he...
+
+It's over. Best alpha for people who aren't being flooded rn is to just start their own company while applying in the background via AI so it doesn't waste their time. All their applications are being culled via AI anyway so it's fair.",analysis,
+Blaming the well-paid employees for what the others are getting paid isn't the way to go.,hot_take,
+"The percentage of people making that amount of money is still pretty low. I'm more worried about what happens when those people making 300-400k a year automate those jobs. As far as sustainability, cost of living will be consistent with the middle class.",analysis,
+"Stop thinking they want to hire the best talent.
+
+FAANG isn’t trying to hire the best talent. They’re looking for people who will be productive at FAANG.
+
+Startups are compounding the error you’re making by thinking what works for FAANG will work for them.
+
+Also if you are sure you’re top talent and their process is designed to find top talent, then surely the interview process will be easy for you. So just get the job if you want it?
+
+Or make demands and see if you can get them to give in. Might work.",hot_take,
+"What kind of reply would you want? Would a simple ""no thanks"" be enough?
+
+I have been in the situation before where replying to everyone  with anything meaningful is simply not feasible. Maybe for a recruiter whose full-time job is that but not for a hiring manager who also has to balance their regular duties as well.
+
+I have spent much more time on the applicant side of things than the hirer side so I understand the goal. It can be frustrating to not get anything. If it is a job you really want you may be inclined to hold everything else off until you hear something just on the hope that maybe they haven't gotten to your resume yet. So a little closure would be nice.
+
+So maybe a better question for you is what are you trying to accomplish by getting hiring managers to reply to all candidates? Give them closure or provide feedback? If the former than maybe a simple ""no thanks"" will do.
+
+By the way, I am speaking clearly to the scenario where a candidate sends in a resume and doesn't hear anything back. In my opinion, even if the hiring manager or recruiter does a phone call the candidate deserves a clear ""no"" email at a minimum.",analysis,
+One promising anecdotal is that I've seen a big uptick in the last 8 weeks of people leaving my current place (not FAANG but you've heard of it) with work secured whereas that wasn't the case much for the last 2 years.,analysis,
+"I look at it from the other perspective (interviewer). We always have an ""adjustment"" period for the candidate to settle in. We smile with them, ask them how they're doing, bring them water, ask them if they have to freshen up [restroom, go wash]. Let them cool down a bit if it was hot, or get warm if it was cold outside. We'll ask them if they'd like a drink [coffee, coco] and may prepare one for them. They notice the view (directly facing the mediterranean) and we invite them to the balcony: it's soothing.
+
+We'll ask them about logistics, if they need to be somewhere else, if they mention they came by car we'll confirm they're not parked somewhere where it will be towed. We try and put all conditions so the candidate feels free of other things. In some occasions, they came when we were having a birthday party and they were welcomed.
+
+We try and bring the conversation towards something the candidate is comfortable with, a project they've done or a topic they've worked on. Something that anchors them. We'll ask questions on how they solved things, etc. Then we ease into other problems.
+
+Our sessions feel like we're colleagues trying to tackle a problem together. A few minutes in, they're not stressed and they can actually do some thinking on the issue at hand and do their best.
+
+That's our way to deal with it so we don't rely on the candidate's maturity or confidence levels for the interview to go well. We do that upstream.",analysis,
+"Start cultivating your own public image in the internet circuit of your field / industry and aim at becoming an internationally recognised expert in say 5-10 years. That way, your 50+ career might be made of a number of consulting opportunities and advisory roles. I'm in my early 40s and in the process of converting my three static websites for three different industries into blogs, one at time within this year.",hot_take,
+"It depends on how much effort we want to put into training entry level programmers.  Different companies have different requirements.  If we intend to train the programmer from the ground up, then we can probably look for programmers who are smart, resourceful and self-sufficient.  We can train the rest, like good coding, etc.
+
+If our expectations are higher, then what I look for is code sensibility.  Do they cut and paste the code without thinking ""hey, this is kind of dumb to do""?  Do they see repeated code and think ""this can be collapsed into something more succinct""?  This is the hardest thing to train for, and the most time consuming from a mentor point of view, so if we have a high bar for entry level programmers, then code sensibility is one of the factors on top of the 3 above that I look for.
+
+I've rejected interns that worked for me from a permanent position because after 4 months, they still had terrible code sensibility.  I had to pour through their code with a fine tooth comb because it was riddled with tiny bugs, and it needed constant rewrites because they just didn't improve over the course of the internship.  I've had other interns that just ""got it"" and wrote great code from the start, or only needed a few reviews and then ""got it"".  Those are the ones that will be productive quickly and won't hamper the rest of the team with lengthy reviews.",hot_take,
+"From what I understand, this does not actually affect Google.  They were already amortizing their R and D expenses.
+
+Over long time scales (and big company revenue streams), this is sort of a wash.  I think this hurts startups a bit more due to the long timescales involved which eats up much needed cash in the short term.",analysis,
+"If you're a new grad then presumably you're optimising for experience, not salary. I think it will be harder to find a good job for while, but it shouldn't be impossible to find any old job which will provide some relevant industry experience.
+
+Late 2020 to earlier 2021 was nuts for tech jobs. Companies were hiring people who were massively unqualified just because they needed someone. During that time I was getting calls from recruiters weekly practically begging me to quit my job for some new opportunity they were recruiting for and unable to fill. Imo there are a lot of devs out there right now who only got hired because the market during 2020-2021. I worry a little for those guys because they were punching way above their weight to begin with and I think they'll probably struggle to find something as good should they get laid off.
+
+The other people who might struggle are those looking for jobs specifically in the tech industry or tech startups. As someone looking for work right now I have noticed there are fewer jobs from tech companies out there, but there's still plenty of tech jobs in industries like travel, finance, and retail. Everyone needs tech workers these days so a tech industry slow down isn't necessarily the end of the world for someone with tech skills.",analysis,
+"A no-reply@ email address? This seriously happened? You dodged a bullet.
+
+If you reject candidates from a no-reply@ email address, there is nothing I or anybody else can ever do to help you in any way ever again. You are beyond help. You've found perhaps the one thing you could do worse than simply going dark on candidates you reject.",reaction,
+"I turned 50 last year. I am still working as a developer, and I am still loving it. As long as you stay reasonably up to date with the shifting technology I think there will always be opportunities. For example, I started coding in a proprietary language (PLEX from Ericsson), switched to C++, then Java, now Python with a bit of ClojureScript. I get contacted by recruiters at least once a month (mostly on LinkedIn) about other job opportunities, so there is definitely strong demand.
+
+A lot of people make the mistake of staying too long in the same place, and gradually getting less and less ""hireable"". It is easy to just stay doing the same thing, but you are hurting your future chances of finding a job if you have to.
+
+Also, becoming a manager seems worse to me from an employability perspective. There is always a greater need for developers than for managers.
+
+I also wrote about why developer is a good career here (applies to older people as well): https://henrikwarne.com/2014/12/08/5-reasons-why-software-de...",analysis,
+I would say that if they have to mislead you from the start that there will be little you can expect from this relationship moving forward.  You will not trust anything that your boss or this company promises moving forward so I would suggest you start looking elsewhere.,hot_take,
+"Er... Not sure if you guys know, there is also H1B1, it's a variation of H1B. More for both Chile and Singapore citizen to work in USA for short term. I am not sure about the fees though.",analysis,
+I saw an event in Argentina called fuck up nights. I think its something global,hot_take,
+"Good Rails devs are hard to find and in large demand.  As a beginning Rails developer, though, you'll need to convince your new employer that you are a net gain.  A junior dev can need so much hand-holding that they can steal away precious time from a senior dev.
+
+Put some good Ruby code on github.  If you can, you'll improve your chances of getting hired quite a bit.  If you can't then you're not ready to be hired yet.",analysis,
+"Wow, you seem almost a clone of me. Major reason why I can't change is, that I didn't study well enough in high school to make it in med school, which bothers me, and I'm a little older. You're 22, I'd say go for it. What can you lose? You've already opened a road, and it will stay open even if you choose to change your mind back",reaction,
+"I cannot count how many interviews I've done where I've shown up with 10+ years of industry experience and been given an interview catered toward juniors. If anything there is too much emphasis on interviewing entry level software engineers. There are others out there with a proven track record.
+
+I'm just underselling myself, shooting too low. At this point do I need to be applying for management?",analysis,
+"In my experience you never get what you deserve, you get what you negotiate.
+
+Pick a number to which you will be 100% happy to do the work for and use it as your ""must have"" number, from there consider perks, bonuses, stock etc as nice extras but not part of the must have.
+
+Start as high as you can because that sets your baseline. From there consider that it is a lot easier to get more $ by changing jobs than by merit raises..
+
+My personal pet-peeve, for some reason companies have a problem increasing the pay of top engineers at a rate equivalent to their productivity. (Something that sales people always get)
+
+And finally... always, always always remember: if it is not on paper, it does not count!",hot_take,
+"You are correct, we are in the middle of a ""Great Dev Drought,"" keyword being ""Great"" or rather talented. I don't have any hard data for you per se, but I can tell you that of the ~100 candidates we've interviewed for a junior Rails position, we've accepted approximately 2%.
+
+Our entire pool is filled with software engineers and web developers that look very qualified on paper. However, it's hard to find someone with a good mix of (1) theoretical computer science knowledge, (2) practical programming experience, (3) problem solving skills, and (4) the drive to be truly great.
+
+I have one piece of advice: If you are simply looking to ""pivot"" into programming for a job and because it's the hot thing to do, then don't! But if anything programming and computers is truly your passion; if it excites you so much that you have trouble sleeping; if you couldn't imagine your life doing anything else, then go for it by all mens. The odds are stacked against you, but you can beat them if you work hard. Good luck!",analysis,
+"Your question is how can you continue to be compensated highly in this fast changing industry that already compensates very well. It's a tough question and I don't think anyone has a magic bullet for you.
+
+Here's some general tips from the business side:
+
+- When you are struggling to compete, differentiate yourself and find a smaller, more specialized audience. Don't attempt to compete head on unless you believe you have an upper hand.
+
+- There are skillset that are always subject to the whims of the day but there are also skillsets that do not: among them are (1) the ability to sell yourself and (2) the ability to manage and motivate others. These two skills have stood the test of time and if you commit yourself to at least getting better at them, so will you.
+
+I'm a developer in my 30s who retrained after being a lawyer. I flat out tell people I'm not that great a developer. I have never gotten a job from having to prove my technical skill and have not yet needed to. I rely on my network, find a specialized niche market (startups that have just figured out how to make money but don't yet have a product orientated tech leader), and I impress upon them non-coding abilities (I ask them a load of questions about their business and operations and talk about strategy, product, organization challenges - things they don't get from a typical developer candidate). You should not adopt the same strategy but maybe think about what non-technical skills makes you differentiated and where those skills might be needed most.",hot_take,
+"I may be an oddball, but I expect engineers at at startup to help with support, and would absolutely hire someone who had worked in a support role over someone who hadn't if they're otherwise equally qualified.
+
+The experience is super valuable - especially if you leave with a spidey-sense for what product features and UI gimmicks will cause users the most trouble. It's way better (and cheaper!) to fix issues like that during development than after a product has been released.
+
+So much stuff released now is frankly user-hostile. Hidden, undiscoverable but essential actions and controls, and needless complicated interactions. Ugh.",analysis,
+"> For cash-strapped companies, especially those not yet profitable, the result was a painful tax bill just as venture funding dried up and interest rates soared
+
+Can someone explain this? What taxes do unprofitable US businesses owe that this would be deducted against?",analysis,
+"Your description of your career sounds very different from my career in software development - I don't touch the web, things are methodical, I spend most of my time communicating instead of coding, etc. Why don't you explore other specialties of your current career first?",analysis,
+"Don't think that you're worth $40/hr, know that you're worth $40/hr. It sounds like you're unsure, and any good business negotiator is going to pick up on that and use it to their advantage.
+
+The way you know is to get paid that much already, or to have multiple firm offers for that much from other potential employers. If neither of those are true, then you don't know what your value is, and you're negotiating from a point of weakness. If you can't reach that level of confidence, then the next best thing is to find out exactly what the job entails, and learn what the local market pays for that skillset. If you bring extra skills, point them out and use them to bring your price up. If you bring only a subset of those skills, use that to set expectations for future rate increases when you can prove you've added value.
+
+It sounds like you're guessing as to your worth, and negotiating based on the pay you want. Do the research, get competing offers, and know what you're worth. Be prepared to explain to a potential employer how you arrived at the number. It's the only way to get paid fairly.",hot_take,
+"I'm a little over decade older than you but I've been around this business a long time.
+
+Web development has always had young, inexperienced people going into the business.  Things have always been changing really little care for methodology.
+
+Things are getting better, not worse.  The amount of elitism this post drips with is semi-infuriating.
+
+I come from nothing.  A poor kid with a good brain who was lucky enough to school with the financial elite because of that brain.  Shitty, single-parent; handmedown clothes and shit Christmases.  I had to fight my ass off and struggle to even get this career.  I couldn't afford to stay in college and I didn't have the right attitude to keep my grades up for scholarships.  I worked a decade-plus of shitty, low-paying jobs.  I've been working fulltime almost nonstop since I was 14.  I had to pay for my own senior year of a high school I didn't want to be at.  While I've almost always had a career in tech, I started my development career at 30.
+
+I have a very blue-collar mentality.  I dress badly.  I swear a lot.  I am from the lower social classes and I'm proud of where I come from and what I've done.  My work differentiates me from my peers.  I make great architectural decisions and I get things done.  I'm your peer because of what I can do, not because of my class.
+
+What have you done to get where you are today?",hot_take,
+"> although I’m senior level
+
+This means way less than you think it does.
+
+If you’ve just been working at some company that hands out senior titles like candy, it’s not worth much. If you really are senior level you need a good story to show that to people you’re interviewing with.",analysis,
+"That’s suspect.  The site says that’s the average salary reported, implying many make less.
+
+Another data point… if you can find a $15/hr full time job (minimum wage in many US markets now), that’s ~30K per year.",analysis,
+"They tried for a more personal touch where I worked (rhymes with bewlett backard).  They schedeluled everyone for an hr interview but everyone staying was scheduled for 5 minutes, and everyone laid off was scheduled for 15.  Since everyone could see the calendar everyone figured it out instantly.",analysis,
+"I would try to gently put them on the back foot when they offer a wage.
+
+When you receive the offer, you should comment on the differential between expected and offered wage, even if you intend to accept. For example, you might say with a gently puzzled tone, ""this is lower than what I would ideally be earning, based on my experience and capabilities. Can you explain how you came to this number?""
+
+You may be able to push back on them a little bit. You will be able to tell if there's room to negotiate, based on the response to you. Don't overdo it, as simply commenting on the differential and seeing how they respond is a way of gently squeezing them. If it seems the number is negotiable, ask if they can compromise with (for example) $33. The art is in doing this in a confident and friendly way, so that the position doesn't collapse.
+
+Whatever number you set as the price you want, don't waver on it after it escapes your lips. Let them consider the number unless it's clear there will be no budging. If possible, do some research on other roles or other engineers you know in the business, so that you can justify your ask. It's not your standard of living that sets the price, it's your alternative job and their alternative hire.",hot_take,
+"It's possible this is including many misclassified listings (e.g. hourly paid internships). Additionally, I've seen some listings for higher level jobs for absurdly low salaries ($19,000) which I can only imagine are typos. I wonder if the average somehow includes other regions too with very different cost of living. I wouldn't put too much stock in those average numbers. If you are looking to get an idea for the market for entry level SWE positions, it might make sense to narrow the search to known companies in your region.",analysis,
+"- difficult to gauge how much they know, and how slow/fast I should in explaining stuff
+
+Generally I think this is a difficult problem. Some people will agree and nod as if they understood everything without understanding anything, while others will ask dozens of questions when they already understand 99% of what you're trying to explain but just wanted to clarify details. I think the best way to gauge how this is with different people is to explain a problem or task, see how they react and how many questions they ask, then set them on the task and see how they solve it. That gives you a reference for if they agree to everything and solve the task quickly and easily they understood, or if they struggled it gives you an opportunity to talk about them asking questions and saying something if they weren't clear. You can use this to calibrate from there.
+
+Additionally, I've found that people can be more forthcoming with talking about problems they're facing in a role in a more social setting. Going to lunch if in office or in some unstructured chat if remote.
+
+- distraction (I am excited to mentor, hence my brain keep coming back to that (providing resources, reviewing their work, etc.) while I am supposed to do my work)
+
+I think this is human nature to have your mind on the most interesting problem you're facing, which in this case to you at the current time is your mentee. It's something you just have to overcome to focus on your current task. If you have a team try to spread the reviewing across the team, this is helpful to the person as somebody else on the team may learn the same way they do and be able to explain something in a way that makes more sense to them and that's okay, as a mentor understanding that people need more feedback from different sources and providing a way for them to get that both frees yourself up and helps them.
+
+- how detailed/nitpicking should I be in reviewing, how to explain the right concept at the right time
+
+I generally think that nitpicking should be avoided in all reviews, point out things that are wrong for clear reasons and keep to your same review process you use for the rest of the team. Wrong could be opinionated if it doesn't fit the working style of the team. Explain concepts when they ask how something works, or if they have done something that is wrong.",hot_take,
+"> Previously, my LinkedIn profile used to be flooded with job offers, but now it’s nearly silent
+
+Can confirm. I nowadays receive mostly messages from people who are looking for a job and curious if our team is hiring. Though it is mostly entry-level candidates (fresh grads, people who have completed bootcamps, etc.), which probably tells something about the job market.
+
+HRs occasionally reach out to me but only to try to sell devs. So it looks like nobody's hiring and everyone is desperately looking for a job. Or maybe it's just LinkedIn is dead and people use other channels to find opportunities.",analysis,
+"A lot of the trouble in interview processes is communication or an overflow of work that causes seemingly ""closed"" interviews to fall off people's priority lists.
+
+For you, specifically, I'd recommend preferring the future regret of having contacted the head of hr later than is advisable than the regret of never knowing. After all, the worst thing that could happen is they say no, whereas all slightly less bad consequences are pretty rad.",hot_take,
+"I've always found those unsexy backwater jobs to be much harder to bag than the usual big tech cos.
+
+- They tend to work with recruiters who don't specialize in tech and end up rejecting resumes for superfluous reasons like not having ""experience with JSON"". These recruiters are also vulnerable to dishonest/targeted resumes and skip over people with relevant experience in alternative technologies.
+
+- They only hire one or two people at a time. A big tech org could be picking up 5-10 people every week through the same JD.
+
+- Nepotism runs rampant here because there isn't a standard org-wide interview process involving multiple people. Often the whole thing is CYA theatre when the HM already knows who they want to hire, or they need to immigrate a neighbor or relative.",analysis,
+"Companies seem to be hiring and focusing on the short term, that is focused expertise that can hit the ground running, on a hard problem, right away. Certain fields seem to be more in demand than others (ML, infra, etc) - but to me the main pattern is companies caring more about short term gains than long term growth potential.
+
+So I think it sucks to be relatively junior right now.
+
+To me its sad as I think how well you onboard other team members is one huge differentiator in your dev culture, and points at a healthy team that can readily share knowledge. How its setup now may work for short term problems, but also creates a lot of ""bus factors"" where crucial functionality depends on 1-2 skilled people.
+
+I also see a bit of getting rid of middle management / product management type layers lately. A sense of wanting to streamline / eliminate alleged ""bureaucracy""",hot_take,
+They probably have a culture of deception at this place and the risk is that they will continue to lie and mislead you.,hot_take,
+"To me it seems like you've hit a point in your career where you need to learn some new skills. That doesn't mean your old skills are now worthless, it means you need to learn some new ones to go with them.
+
+I'm younger than you (25), but I already flip-flop between higher paid jobs that use the skills I already have, and slightly less well paid ones that give me the opportunity to learn new skills. I figure that's just the price of staying competitive in the job market.
+
+I come from more of a dev background, and I've looked into learning devops stuff. I think you'll find that your more traditional ops background transfers quite well to the new cloud environments. There's definitely a whole load of stuff around networking and stuff like that that I have no clue about.
+
+I suspect if you put a bit of effort (a month or two even) into learning the new shiny AWS/kubernetes/whatever stuff, then you'll suddenly go from someone who sounds like they don't know anything (because you don't know the acronyms, etc), to a someone who can impress everyone because their knowledge of the new shiny stuff is backed by years of experience in a similar domain that most people don't have.",hot_take,
+"The only data cited is the increase in YCombinator applications. But they only have data for the last year, because YCombinator didn't publish how many applications they received in previous years.
+
+(Also, if you're looking for it: archive.is slash WE4WH)",analysis,
+"I have recently been accepted to www.launchacademy.co, which is a full stack/Rails developer ""bootcamp"" in Boston, and I am also interested in this data. Entry level Rails devs get paid differently, regionally. That being said, I know 30 of us have put our life on hold to do this school. I am sure you made the right decision.
+
+EDIT: Quora has a lot of data about this. I am told that junior Rails developers in Boston can expect to make between 70-90k salary starting out. SF and NYC is higher.",analysis,
+"Courtesy is courtesy no matter what field you're in. I've always sent a thank you note no matter what. They took time out of their schedule for me, it's the least I could do.
+
+Here's two tips to help you:
+
+    1) You can never be too courteous.
+
+    2) There is nothing wrong with being the best dressed in the room.
+
+(Note: I've never worn a suit to an interview, but still always try to dress nicely even if I know the company is a shorts/sandals/t-shirt kind of place. In those instances a nice pair of jeans and an ironed shirt usually work.)",hot_take,
+"A lot of good answers below already so I won't state the same things again. I do want give a different insight though.
+9 out of 10 times, HR is waiting for an answer from the Hiring Manager/ interviewing team/ department head/ etc. Just because HR (or; recruitment) is your main contact point (or; messenger), this doesn't mean they are the cause of the delay.
+
+(there is no excuse for not communicating that there is a delay,  or nor answering your call of course).
+
+In your case; contact a different person from HR/recruitmment or the interviewers, just to make sure your contact person isn't on holiday/sick leave/ fired/whatever. I'm afraid that's the only thing you can do. If your contact person is still working there but not responding, odds are high you didn't get the job. (still push for receiving feedback though).",analysis,
+"I don;t think it is about the standard. It looks like they only want someone who has already worked with messaging servers. If you have not worked on that before, then you have nothing to worry. Sometimes it happens that what a company/group wants is not what you have to offer, even if you are a good programmer. With all the media hype regarding these unicorns, you feel let down. Shrug it off and move on to other companies.
+
+Java is just to make their own life easier, because they readily know the Java solution.",hot_take,
+If you're getting offered 40k in Manchester the same price range in London is 50-55k. 40k is the high end for Manchester so you should be looking at the high end for London. Unless you're doing Magento.,analysis,
+"I have spoken with owners and business leaders who used the covid crisis and other events to do a 'no fault' layoff - they cut their low performers regardless of whether they financially speaking had to. They felt that doing layoffs in this way was less likely to impact overall morale.
+
+The other thing to think about is that firms also have to signal to their investors. If all my competitors are laying off, but I don't, it might signal that I'm not carefully managing my investor's dollars. Investors might then punish the stock.
+
+Me personally, I've been trying to get managers to be more thoughtful about who they want on their teams, being more careful in the hiring process, coaching those who aren't up to snuff, and letting go of people who are underperforming. Doing that on a regular basis instead of playing layoff games seems to make for a stronger culture overall.",analysis,
+"As others have said, call HR or the hiring manager and ask. Mostly likely there is no job but it won't hurt to ask.
+
+Big company's HR departments seem to drop the ball a lot. Here is the thing though: You Won't Be Working For HR.
+
+Would you recommend against the college you went to because of the admissions departments poor performance?
+
+Would you turn down a 2nd date because the restaurant you met at had poor service?
+
+[start rant]
+People (in general) need to decouple the interview process from the act of working at the company. The interview process is broken. It doesn't mean the company is. Sure they ask stupid or even insulting questions. Get over it and ""study for the test"" if that is what it takes.
+
+If your find a company you want to work at, you may have to jump through their little hoops. Remember: the interview is a 2 way street - you need to interview the company to see if you want to work there. If you don't pass their insulting ""linked list"" test you're sunk before you start.
+
+Recognize that not every company is going to be optimized to immediately see how ""special"" you are. You may have to ""hack"" around, or work though, their broken system to get where you want to go.
+[end rant]",hot_take,
+"I live in Athens, Greece, work for a company that calls itself a startup (but has been around for a decade) and I make ~35k a year.
+
+My general sentiment is that locally that's more than what most startups are paying, but at the same time most startups aren't hiring mid-senior people.
+
+As far as regular tech companies go, it's a good but not great salary.",analysis,
+"In the US, in general? I believe so, yes. For a couple of years at least. In many European countries the salaries are already much lower (than US), so perhaps not as much wiggle room there.",analysis,
+This is interesting to see. Does feel like most of the companies here got a nice boost during the pandemic. As things change again they need to lose weight?,hot_take,
+"You could have a kid(assuming you're in that demographic).  Then you'll be so short on time/energy that you can't possibly want to spend your evenings/weekends on moonshot coding projects.  I'm being a bit facetious of course, but ""engineers that cared nothing for the tech or the work"" can also be interpreted as ""mature engineers who have full/busy lives outside work and have learned the importance doing a solid weeks work moving the companies objectives forward and then dropping it to maintain their own mental health and avoid neglecting their families."" I was talking about this yesterday with a coworker who said basically ""Wow did my perspective on older workers who go home at 5:00 sharp change as soon as I had a kid."" So just keep in mind that many of us have a radical and involuntary shift in our relationship with work/programming right around 30yo, in case you're approaching that transition.",hot_take,
+"It's hard out there. I was laid off in January, and still I don't see signs of ending this job search soon.
+
+Context for you: I'm a mid-level Growth PM based in Europe who worked mostly in early stage B2B YC startups.
+
+How am I doing? This is my 11th week in job search, 96 applications, 10 interviews (1 still active), and 0 offer.
+
+My insights so far:
+
+- there's definitively no rush from employers to close their openings, and for the first time in a job search (this is my 4th) I got 2 interviews suspended because they decided to prioritize another leadership hire before closing for the role that I was interviewing for;
+
+- most of the mid level openings are masqueraded senior roles;
+
+I feel so bad for people early in their career, for the first time I think I've never encountered an entry level opening... I was trying to also help my wife to get a job in tech (she is very early in her career), but currently it doesn't seem possible.
+
+Luckily we are financially ok, which is the main thing that allowed me to stay positive, in relatively good mood, and don't feel overwhelmed with the daily rejections.",analysis,
+"From the article:
+
+> [Melissa de Witt] Do you think layoffs in tech are some indication of a tech bubble bursting or the company preparing for a recession?
+
+> [Professor Jeffrey Pfeffer] Could there be a tech recession? Yes. Was there a bubble in valuations? Absolutely. Did Meta overhire? Probably. But is that why they are laying people off? Of course not. Meta has plenty of money. These companies are all making money. They are doing it because other companies are doing it.
+
+This may be true, but I’m not sure how we escape this: The market has different expectations now, leadership has to be sensitive to the expectations of the market, etc.
+
+“Making money” has a direct correlation with “risk taking”: When you have money pouring in it’s easy to allocate some to “moon shot” projects. Less money coming in and you can still make “improvements”. When money starts drying up you can only do “maintenance”.",analysis,
+"A good rule of thumb (although it's difficult to summarize the salaries of all the countries in Europe) is:
+Juniors up to 30K. Mediors up to 50K. Seniors up to 80K.
+
+This is for software engineers.",analysis,
+"Sick days, doctor's appointments, car repairs, waiting for the cable guy. Virtually any excuse will work.",hot_take,
+"As a hiring manager, most of the time my mind is made up 30 minutes into the interview (though it's not considered polite to cut it short or notify them at that time).  However, in the very rare case of a tie, a follow up email (or handwritten letter) will definitely swing it in your favor.
+
+Actually, despite it being the common advice, they are quite rare to receive.  So I tend to take notice and remember that person much later even if they are not selected.  I would be likely to give the person another shot if they re-applied for another position, or pass their resume along to another position where I think they'd fit better.  I'd never do that for someone who didn't follow up.",analysis,
+"I feel it was worse in 2001/2002 than it is now.
+
+Sidenote: The number of people working in software has grown immensely during these 20 odd years. (seems 5-10x larger now) The typical developer background has also changed quite a bit.",analysis,
+"I graduated in 09.
+
+* It's easier to get a job if you already have a job. It's okay to take a shitty job as long as you don't get complacent about it.
+
+* Gaps get stressed by job seekers in advice requests because it is a question that can make you look bad. However, if you are actually at an interview, they are fishing for bad dealbreakers not minor imperfections. Don't worry to much about it.
+
+* If you get hired via a staffing agency, you could be cut at any time arbitrarily. I once got laid off 24 hours after signing a contract renewal. Keep as good an emergency fund as you can manage.
+
+* Unemployment benefits are not charity, it is insurance that you pay for out of your wage. Dont let pride or shame convince you not to use it.
+
+* Network aggressively and be likeable. You never know when that linkedin connection from a shit job 3 years ago will throw you a bone. I know everybody on HN really likes their leetcode but if you have an inside reference, the interview is reduced to just a vibe check.
+
+* There are grades of recruiters and higher grade jobs tend to be assigned to higher grade recruiters. The guys sending you irrelevant callcenter gigs on the other side of the country can be ignored as they are just playing the numbers game too, but if a recruiter advertises something decent to you the least you should do is reply with a ""not right now but thanks"". This results in a higher quality recruiter keeping you in their rolodex for later.
+
+* Hire a professional resume writer for you. This goes not just for noobs, but also people who have been at the same gig for awhile and have not been through the hiring game recently.
+
+* Cold applications are just a numbers game. Managers get 1000 applications for 1 seat. Yes, tune your resume/letter for the job, but don't spend too much time on it.
+
+* If you are offboarding, just plagiarize Nixon's resignation letter if you can't write anything nice at all. In a fiery departure, your best case scenario is that nothing happens and your worst case is that somebody who likes you will no longer want to be your reference or whatever. Your first one will always feel bad, but people coming and going is just part of life and doesnt have to be a big deal.
+
+https://www.archives.gov/historical-docs/todays-doc/?dod-dat...",analysis,
+"Sadly this is going to really change our tech community. I suspect many US citizens, especially at large US companies, have no idea how many colleagues', coworkers' and friends' ability to stay in the United State ultimately rests on their being a strong demand for tech talent.
+
+Most of our discussions around the system impact of layoffs have been in regard to changes in TC long term, but I personally think that's minor compared to potentially saying goodbye to some friends for a long time.
+
+The issue is not just this current scramble, but if the job market in tech does shrink and continue to do so we're going to see the number of places sponsoring H1B shrink tremendously. Estimates are hard to come by accurately, but the number of H1B holders in tech is fairly large, this could be a change that quite literally changes the face of tech in the US.",hot_take,
+"Just by curiosity, is there any particular reason why the math and physics teacher job does not make you happy?
+
+In my opinion, it is a great work very valuable for the society, and that allows to pass your passion for science to children (those who are receptive). It can even be a bridge to some academic career.",reaction,
+"Freelance developer from Germany here.
+There is a significant drop in projects and a slowdown in permanent offerings, but no layoff wave like in the US.
+Demand is still high but due to the current recession most companies delay hiring for now.
+
+From my point of view there is also a skill-missmatch in Germany.
+While firms look for the usual most modern tech stacks, workforce is often conservative, staying years or even decades at one company with outdated technology.
+Hiring non-EU citizens is almost impossible because of the bureaucracy.
+
+So, in Germany the situation is complicated and different from the US.",analysis,
+"> The internal note said Amazon is making the change because of the ""pipeline"" of candidates available through student programs, but the memo nor Amazon's spokesperson clarified why the company believes campus hires are better than experienced industry candidates for entry-level positions.
+
+> ""For the foreseeable future, we are prioritizing ready-to-place candidates through Student Programs,"" the memo said.
+
+I think what they are saying is its easier to recruit students as there is a pipeline but it's harder to find experienced people who would accept entry level comp at Amazon so they aren't going to bother. It's not that they think they are better, just easier to get.",analysis,
+"Not sure if they are still looking but Nokia had some interesting sounding jobs going in Berlin. Working with Matt Biddulph of Dopplr fame.
+
+http://www.hackdiary.com/2010/02/10/algorithmic-recruitment-...",analysis,
+"My policy is that every year I aim for a substantial pay rise. There is no set percentage that I aim for, I basically just come up with a number that I want, and start negotiating.
+
+The day that the company claims there is no more room in the budget, and I can't see any realistic chance of progression, is the day I start looking for a new job.
+
+Generally speaking, the easiest way to secure a decent pay-rise is to change companies. However, most companies have some kind of appraisal system in place - don't be afraid to ask for a pay-rise. Most companies expect it, and are prepared to negotiate somewhat.
+
+In the past year, I increased my salary by 50%. Know what you're worth, work out the average for your position and skillset, and demand it.
+
+Working for a lower salary than the industry standard is not only bad for you, it's bad for the industry as a whole.",analysis,
+"Yes, no, maybe.  For people who are just doing glue code with no real understanding, yes. That market is going south.
+
+For the high end it’s more complicated:
+
+Comp (not salaries) took a huge upward swing because of an influx of VC money as well as a bull market.  People at FAANG type companies could leverage their unvested stock to get higher comp at new companies.  Let me explain.
+
+Bob joins Amazon in 2016.  His initial comp was targeting 250k but by year 3 he was going to make 350k due to stock appreciation on his 4 year stock grant.
+
+Bob has a smashing interview at Google and they know he won't take less than 350k.  So they offer 370k PER YEAR (with an initial stock grant) even though Bob wasn't going to always make that much at Amazon.
+
+Bob works at Google for a bit, his stock goes up even MORE, bob is bored and interviews at Uber/Databricks/Snowflake who has billions in VC money and they offer him 450k (sure some is less liquid, but maybe he knows there's a secondary market).
+
+Without a bull market and without the VC market, comp is going to be a LOT less for the top of band offers.
+
+However, it's probably not going to be a lot lower than the bottom of band offers, because Jim who cracked google but didn't have a boatload of unvested stock and competing offers wasn't getting near as much as Bob anyway.
+
+Finally, Software Engineer fuck ups are still very expensive for companies.  So any profitable company that can afford it is going to to to pay close to top of market because paying 2x as much for an engineer who is even 20% better is WORTH IT for them.
+
+It's just likely top of market is down a bit.",analysis,
+"As Long as I can afford,.I prefer not to appear in. Such coding interviews. I rather prefer off-line assignment with a reasonable time to solve it. I don't like solving riddles.",reaction,
+"Not dated, but with zero context like that, I'd assume it was a trick question trying to see if I can come up with types of scenarios where sneakernet outperforms digital transfers.",hot_take,
+"According to linkedin, Klarna seems to have >100 people titled ”talent acquisition coordinator”.",analysis,
+"From my view as someone hiring at startups, I feel like I'm seeing the best flow for candidates at all positions than I've see in 20 years.",analysis,
+$200k is a lot for most positions in the US. The median for a US dev is about $105k. I'm not surprised if you're not seeing positions higher than that.,analysis,
+"You get paid what you negotiate for yourself.  If you agree to make less because you live somewhere other then the Bay Area then you make less.
+
+The question is: why would you do that?
+
+Your value to an employer is the same regardless of where you physically do the work.  Keep that in mind when negotiating, and be sure to give a little chuckle over the phone when they suggest paying you less because you live where you do.  No.  But nice try.",hot_take,
+"I've been in this situation a few times and looking back at my career, I could argue I made the ""wrong"" choices, but they were definitely the ""right"" choices for me at the time. The way I think about it these days:
+
+1. The space and how exciting it is (AI, Blockchain, etc)
+
+2. My personal growth (learning, but also compensation & rate of career progression)
+
+3. The people (especially who is my direct manager)
+
+Ideally, you can get all three in a job! However, when I can't, then every single time, #3 has contributed more towards my job satisfaction than #1 and #2. However, over-indexing on #3 alone is also sub-optimal.
+
+Even ""boring"" spaces often have hard problems and if you dig into the problems, then the work can become intellectually interesting. It may not be sexy or shiny, but you need to decide how much you want to index on that. If you are getting intellectual fulfillment in your day-to-day, better personal growth (including compensation growth), and work with & for good people, then that's a pretty good deal. Don't undervalue doubling your salary. It can provide optionality down the road to work on other things, like folks have said below.
+
+Early in my career I worked on what is seemingly boring stuff but the internal engineering problems were surprisingly complex and therefore interesting, even though my ""resume bullet"" for that stint may appear boring to a reader. Also, the people I worked with were just the nicest and I couldn't imagine leaving that team.
+
+I still look back on that period as the happiest time of my professional life, even though I now make many times the compensation and work on some really externally ""sexy"" stuff. Nostalgia might be playing into that, but I do remember being pretty happy on a day-to-day basis.
+
+The counterpoint is that I did eventually leave that team and that company because my career was not moving fast enough and I would not have hit the financial goals I had for my family's wellbeing.",analysis,
+"My previous company got rid of DEI stuff a couple years back, when the previous CEO left.  Only one or two people even noticed, and one had the nerve to complain on an all hands.
+
+The CEO said 'listen, we don't have the time or money for stuff like that right now. We're not profitable.  Let's turn this ship around and we'll revisit.'
+
+This gave me the sense that it's just seen as a frivolous expense to most companies, and pretty big respect to the CEO for admitting as much.",analysis,
+"There are about 150 good computer schools in the US producing 400 employable graduates on average in the tech industry, total of 60000 engineers. 60000+ H1Bs come every year. H1B is a necessity because the need is too high. H1B is not replacing US workers.",analysis,
+"Looking for a job in the US while visiting on a tourist visa is legally questionable. You're not only asking prospective employers to sponsor you for a limited number of visas that can get complicated and expensive for them to obtain, but you will probably have to leave the US while waiting to get that visa, and maybe explain to USCIS why you were job hunting while in the US on a tourist visa. At the very least you're competing for one of the limited number of H1-B (or other visas that allow working in the US) with a large number of more qualified/experienced candidates.
+
+Sending in resumes and cover letters is not the correct way to search for a job, though it's the most common approach. With no degree and only six months of experience you are entry-level at best. Right now the demand in the US tech industry is for senior-level people. There's no shortage of entry-level US citizens/green card holders looking for first jobs.
+
+You're not doomed, but you should realistically assess where you are in your career (the very beginning) and how that looks to companies desperate for more senior people. Add to that the complications of not having the right to work in the US and you can start to understand why your applications get ignored. The US has limits on H1-B visas, with exceptions for people who have advanced degrees or specialized skills. I can't imagine a company going to the trouble sponsoring a visa for an entry-level candidate. I know at places I've worked candidates who didn't have US work permits were ignored -- it's simply too much trouble to sponsor a visa and not worth it for entry-level/junior positions.
+
+I'm trying to give you helpful advice but I realize I'm painting a bleak picture. Large companies like Facebook don't have a problem attracting candidates and they can sponsor visas for more experienced people (or people with degrees). Smaller and less sexy (not tech-oriented) companies do have trouble attracting candidates, but they are likely unfamiliar with and skittish about hiring a foreigner. Companies used to post ""US citizens/permanent residents only"" in their job ads but that seems less common now -- perhaps the employers (or recruiters) worry about lawsuits for ""exclusionary"" hiring practices, or they don't want to take the chance of missing a truly great candidate they might sponsor.",hot_take,
+Powell is on record saying unemployment rate is too low for inflation to come down so no don't expect gov intervention.,hot_take,
+"I’m disappointed in most of the responses here.  I tried to go the tech path at 38 as well and everyone hiring shares the same biases about experience in outside industry and age.  Its really a clown show once you try to get hired.  I’m amazingly unhirable as an SE, but can find good consulting work in a matter of weeks outside of this bubble.",reaction,
+"1. Customer success / support is fine in combination with other skill sets that are higher value such as SWE. But I would still say that the employer history is more important. For example, I'd rather be a customer support engineer at Google than an architect at a terrible, no-name software company or one of ill repute.
+
+2. It can widen your perspective into how to better write more maintainable / usable software but it won't help you a lick for getting through first or second round interviews with reputable software companies that drill you on algorithms and code fluency.
+
+3. I've only ever seen customer support engineers promote up to managers in my experience. In my case, I was hired on as a team lead for a combination of support and operations and after burning out I'm starting my own gig with some lessons and insight I may not have learned otherwise. I wasn't held back so much by technical ability as much as runway saved up and finding a set of ideas I could imagine committing up to a decade of my life on. However, the loss of fluency in coding over time ironically makes it take longer for me to get out an MVP than if I had just pumped out code for years.
+
+Be extremely careful with not very well defined positions regardless of title - they can quickly become ""do everything other people don't like to do"" jobs that burn you out with few real skills of actual business or technical value. It is truly a sacrifice for anyone with potential to do speak up and just go do some of that work, and most companies have zero capability of recognizing when that's happening both large and small. Would you feel bad giving John Carmack a job telling customers how to fix their IPC/SPX networks to play Doom or resetting keys for people that misplaced them? Because that's what these jobs can devolve into if you don't have the right support behind you and a management team that knows when someone is actually overqualified versus being slightly underpaid / good value (overqualified is a terrible value long term because they will quit fast and the churn costs you valuable time / resources).
+
+There are very few people IMO that match the balance of empathy, technical skill level, and tolerance for terrible things. Despite great reviews and high customer satisfaction, I consider myself terrible at it.",analysis,
+"Always before, but you should also factor in local taxes and cost of living yourself when evaluating an offer.",hot_take,
+"I think you want to seek out companies where the main business risk is technology risk still. That would be database companies, developer tools, artificial intelligence startups, operating systems, ...
+
+Probably drones and sensor-companies also qualify but don't really know much about that industry.
+
+SpaceX's reusable rocket is a great example of technology risk and so is Tesla's affordable electric car.
+
+Most startups today don't take these types of risks, SaaS is well-understood. The risks these companies take (in the eyes of investors) are in matching product features to the market and profitable go-to-market.
+
+If you want all management to defer to engineers and their needs then you need to seek out a company where the success of those engineers will make or break the company.
+
+That said, I think product and businesspeople are often not aware that having really solid tech yields dividends for years to come and will help them outcompete any peer as well increase the acquisition likelihood. Saas-companies should have a strong engineering culture, but unfortunately it's not a requirement to be a successful company in this category.",hot_take,
+"I'm surprised no one here talked about the junior side of the market yet. It's underrepresented on HN, but I would have still expected to see something. I'll share what I subjectively gathered from this job market.
+
+Senior devs, people with many years of experience, people who have had the chance to funnel themselves into something specialized are doing okay. It's still not as good as it once was, many still find themselves out of a job and unable to find another one without having to settle for worse conditions or a lower wage, but the squeeze isn't nearly as bad on them.
+
+For juniors and new grads, it's a bloodbath. The best people I know are sending hundreds of tailored job applications to try and get just about anything, and it's still almost impossible. Rates of applications to interviews are probably <1% for most people. Internships still help, but it's not as much of a difference as it once was. Everyone is desperate, and people are lowering their standards as far as they'll go, but employers are still not budging.
+
+Basically, it seems like the sides of the job market are diverging. People who are already in are usually still in. You're either doing great or living through the most hopeless and soul-crushing time of your professional life, with a small portion of outliers in either group.",analysis,
+"Thoughts and random advice mixed together:
+
+- Before you go to university/college and semi-regularly afterwards do a security/doxx/skip trace/etc. on yourself and your accounts. Even if you later do more impressive work, presenting your earliest work is going to be the only way to prove that you were working pre-18/pre college degree, and you are going to need that proof. The main thing is to make sure that there's nothing connecting to those accounts/handles/usernames that might make you unemployable or people not wanting to work with you. It's a good practice to get into because when you're 28 and handing over proofs of what you did when you were 14, you don't want to lose job offers because 14 year old you named your variables 'buttface' or said something that was acceptable in 2019 that isn't in 2035 or something.
+
+- Consider what you want. Do you want to maximize for money? For free time? For autonomy/freedom? What types of tasks do you enjoy doing?
+
+- Consider majoring/minoring in something completely unrelated to CS. One major benefit those of us with significant programming/tech experience pre college have is that we already have a trade/profession going into college. (I started when I was ~5-6). Keep up with your tech work, but doing coursework in areas like communications or business management or picking a rare domain to acquire knowledge in to combine with your tech skills is going to be very advantageous particularly in the middle or later parts of your career.
+
+- Don't worry a bunch about low-balling yourself. It's really weird to try to get an idea of where you fit in the market if you're an outlier and talented young people get really mixed messages sometimes. I think the main question to ask yourself is do you want to go into smart contract or browser security work? You clearly could.",analysis,
+"It makes a big difference.
+
+I interviewed with a Y-Combinator funded startup, and having felt that the interview went really well I awaited the plan for moving forward. Days turned into weeks turned into months and eventually I resigned myself to the fact that I wasn't going to get a call. It was upsetting not only because I really wanted the job but because I spent those weeks hoping just to hear anything at all, whether it was good or bad, so I could move forward or move on.
+
+Interestingly enough, 6 months later the position is still listed as open.",analysis,
+"Although it seems like there are endless start ups with 22 year old CEOs and executive, it's still easier to do business as a C level executive if you're a bit older.
+
+Of course it's somewhat useless to tell you just become a C level executive. But building on top of what was already suggested, I think if you start your own company, you'd have better chance of closing deals, making connections or have people trust you because of your age.
+
+With age comes trusts and experience, and you can use that your benefit.
+
+You may have a harder time convincing venture capitalists to invest in your company, I mean at 50 years, 80 hour work weeks and ramen noodle diets are not viable options. But if you set up a consulting shop you'd probably close contracts much quicker, expand your network much easier and succeed much faster than a typical 22 year old. It's one thing to build an app and get all kids to download it, it's another to be able to sit down with a client and understand their needs and make them trust you with their money.
+
+Experience and trust, use it your advantage.",hot_take,
+Are you talking about solely evaluating the technical ability of the candidate? Because that's only part of the equation to making the right hiring choice.,hot_take,
+"Disclaimer: Probably not highly compensated by hackernews standards (ie I'm still working), but I am well above the threshold you cite. Have been doing this since ~1993, and ... I wouldn't change anything. Had a few wins along the way
+
+You say you are a PM - have you done both greenfield (aka ""primary software construction"") and looking at how to deploy/tune a canned application (like Salesforce)? I think they are materially different skills. How deep are your personal tech skills? I tend to see the very best PM's become CEO's pretty rapidly, so that is one path.
+
+For me the most impact came from ""rushing to the unglamourous stuff."" Documentation, testing, build and deployment pipelines, security and compliance (which are not the same thing), and then building bridges to other functions, which helped me be the 'voice of the customer,' over and over again.
+
+As an IC, I've been a coder (initally perl, later c++, then python), network engineer (cisco bgp/load balancers - pre cloud era), data center manager, biz apps steward (jira, confluence, sfdc, hris), database admin. As a manager I've managed dev teams, SRE teams, data science teams, and product teams. Getting involved in sales engineering and direct customer support also helped a lot.
+
+They talk about ""T"" shaped people, but if you can have depth in multiple areas and have a framework for understanding black box (ie $largeVendor [ie Oracle] is used for $UnchangeableMissionCritical application - how are you going to work with it?) stuff, then you can level up from a ""mere"" PM to an ""Agent of Organization Wide Change""",analysis,
+"Having spent the last 15 years as a developer, I'm now working toward a career as an opera singer (I'm a tenor).
+
+Admittedly I find it difficult to identify many similarities between opera and software development. People often make a connection between music and mathematics, but for me the non-mathematic aspects of opera are what I find most attractive. The sheer thrill of dramatic expression through controlled screaming is intoxicating. And instead of my work living unseen in the dark recesses of a multi-tier architecture, I'm put, quite literally, center stage and in the spotlight, with immediate feedback (applause or boos) and recognition.",reaction,
+"I would ask them what, specifically, within the organization itself failed w/r/t the manager being replaced and what has the organization changed to prevent the same thing from happening in the future.
+
+For example,  did they not evaluate the manager before putting them into a position where they failed?  How do they know it was a communication problem?  Remember, this question is not asking the details of what happened (those don't really matter). This question is asking what the organization did and 
+how does the organization improve itself over time.
+
+The last thing I'll say is that it's very difficult to establish the 'health' of a team during a brief interview.  'Health' is often variable in that what I find healthy and effective you may not.  Most teams aren't filled with psychopaths.  Also,  if you have the right tools and a willing team you (that's a plural you) can change and build a team that is healthy and productive.",hot_take,
+"Did you have three on-site interviews or were these just on the phone? From your description it sounds like all were on the phone since the interviewers did not know you had already been interviewed.
+
+Phone screen people are just checking if you are worth bringing for on-site. They cannot possibly make a ""hire"" decision as their output is either ""no"" or ""maybe"". So, most likely, you had been rejected either by one of the screeners or for some random reason. But it won't hurt asking somebody higher up if you really want to work there.",analysis,
+"Have multiple offers.
+
+Run interview processes with companies concurrently. It makes it easier to negotiate because you have all of the other opportunities",hot_take,
+"I was already interviewing when I got the layoff notice, formally accepted an offer at a large startup the same week I was laid off. I probably wouldn't have accepted that offer if I hadn't just been laid off.
+
+I make about 60% as much (depending on how you calculate the stock). I work about 30% as much.
+
+I don't miss working there, I didn't like their tools or their culture. But I feel something, perhaps insulted, that I was laid off. It can be weird.. disconnecting maybe.. seeing so many people work with such conviction toward goals that defy understanding.
+
+Just imagine tons of brilliant and motivated people with middling communication/organization all working toward some unclear goal (building a metaverse on NFTs?) in the largest PHP codebase you've ever seen, all without batting an eye.",analysis,
+"I would suggest to listen to Yuval Noah Harari’s talks about the jobs of the future. Basicaly, he is saying that you should focus on emotional inteligence and the ability to learn new things.",hot_take,
+"Take the pen test angle, even if it doesn't pan out you will learn more than 'cloud architect', which is basically fluff. If you can't build,  break and maintain systems, you will suck as an architect anyway.",hot_take,
+"One thing I'd recommend is trying, to the extent you're able, to broaden which layers or dimensions you look to in determining whether something is interesting.
+
+Obviously, there will be some products that viscerally excite you and others that don't, but let me elaborate: perhaps a company is working on a tool to help construction workers orchestrate cleanups at their work sites...or the company is working on a platform to help automate property management...whatever.
+
+These may not seem as exciting, on the surface, as other products you may have seen out there, but it could be that digging into them further there are elements which will pique your interest. For example, perhaps the systems that need to be built in support of these products are particularly complex or they present particular scaling challenges, etc.
+
+The underlying product may not be super interesting to you, but it could be that the engineering work involved in them is actually more interesting than some other product that feels more exciting to you. Or perhaps the business or operations side of these companies is very interesting and well-executed and there are things to learn on that front.
+
+I'm not expressing this very well, but my main point is that there can be a divergence between products that are interesting and work that is interesting - often times the less exciting product presents more interesting/challenging work. To see that, you need to take into account the entire equation: the biggest challenges the company is facing, the long-term strategy, how sharp the business/ops side of the company is, etc.
+
+Keep an open mind; things that, at first glance, don't seem interesting may turn out to involve _very_ interesting/rewarding work.",hot_take,
+"The support engineering role can vary from organization to organization. In a support role, you probably won't grow all your coding skills as fast as if you worked full-time developing. You will get good at debugging and some other aspects of development, but you will likely build less and grow less in some areas (unless you spend time during or outside work building). You will still grow, though.
+
+These roles can pay less, it depends. Your market rate is largely a function of interviewing skill and negotiating skill. Work on both of those. Keep interviewing and find the right fit somewhere. Sell yourself (technical and non-technical skills). Did you lead a team at your previous company? What value can you add to projects in your potential new job?
+
+Ask 3 at interviews - ""How many support engineers in the past year now work 75%+ time building software for people, internal or external?"" If there are previous support engineers, that will give you insight.
+
+Keep practicing your interviewing. You may need to learn some node and a latest (e.g. React, Angular) front-end library. One way to demonstrate is by building a small project, hosted on GitHub, which shows you can build software. These two things (especially interviewing better) is very likely the only thing between you and the job you want (full-time software engineer).
+
+Ways to interview better include practicing white boarding by doing algorithm problems. Think out loud during that, and ask clarifying questions. Same with onsite coding- think out loud, ask clarifying questions.
+
+You have cs degree from a top school, and some entrepreneurial experience. These have value. Many roles are open to you- find one that's a good fit for your and your employer's sake.
+
+Referrals will help you, too. Having an advocate inside the company who knows you will make it more likely to give you a chance.
+
+Good luck!",analysis,
+Hundreds of applications since I was laid off in November.  Working a trash entry level job in an unrelated field to try and pay the bills.  The market is absolute garbage.,reaction,
+"1) Subject matter expert.  If you know a business/customer domain well, you're a decade ahead of fresh college grads.  Many folks who have run their own businesses have invaluable insight into the pragmatics of staying alive in ways that a MBA just don't teach.  This is especially true in contracting (e.g. engineering serices or military procurement).  Knowing regulatory hurdles and how to navigate them is invaluable in domains where products/ services are constrained by formal processes (GLP, GMP, FDA, etc).
+
+2) Rainmaker - writer of proposals and attractor of funding for new projects.  This is an acquired skill (through experience of contract writing, practice in the domain, past business contacts, and knowledge of feasible business margins).  In businesses where contracts are the life blood, this role is simply the most important person(s) in the shop.  And this work is almost never done by folks with less than a ~decade of experience.",analysis,
+"We have several people that apply for every job we post (and there are hundreds per year).  On top of that we receive resumes that clearly have nothing to do with the position as well as cover letters that have the job title wrong.  Some attach these materials without actually filling out the online application.
+
+When there's no effort put into applying for our position, I don't see the need to put effort into a reply ... And eventually a flag in our system will send them a generic rejection (approved by legal I'm sure).
+
+On the flip side, we're currently looking for a Google-style SET to work on testing Enterprise Java software and have received almost no resumes that fit the position as we envision it ... That's a pretty clear indication that the job description we posted needs work.
+
+EDIT: This position is still open ... My email is in my profile if you're interested.",analysis,
+"One strategy I've used is to bake a raise into the negotiation. This raise should automatically kick in when the company reaches some measurable goal (MRR, ARR, MAU, whatever...not profit, not VC funding) or a certain amount of time has elapsed. The 'or' is important here as the time component should reflect your worst-case expectation for getting the raise.
+
+There are a couple important things to keep in mind here:
+
+1. You have to trust the other party to some extent. You have to be willing to believe they'll be up-front about the metrics and willing to execute the raise.
+
+2. You have to be willing to work at the lower rate at least until your time component kicks in. Despite any growth projections, do not count on meeting the first criterion before the time component.
+
+Let's use your situation as an example. You'd like to get to $35/hr, but you're willing to work at $30/hr. You've already anchored $40/hr so negotiating a follow-up raise to $35 should be doable.
+
+Let's assume the company has 500k MAU. You might suggest a raise to $38/hr when the company reaches 1MM MAU or after six months of FTE.
+
+If they're not willing to engage in this level of negotiation, that's fine. You've lost very little in terms of leverage and you can still take a more traditional approach.
+
+If they are will to engage, then you have a few more knobs to turn in the negotiation process.
+
+Of course the main risk is they'll renege on the contract, but that's always a risk (I'm assuming this is an at-will contract). You should be prepared for that. But, if they're an ethical employer and you do a good job, I bet they'll be willing to pay a bit more per hour to keep someone who now has a decent amount of domain knowledge and proven themselves to be competent and reliable.",analysis,
+"Take the best offer from the least demanding company.
+
+Use 1-2 years there to upskill in area you care about. Effectively work minimum needed to get a good review from them. Then apply again to area you want to work in, with new salary as your standard.
+
+Will take patience and perseverance.",hot_take,
+"My stress-reducing mid-career switch was into a non-profit company doing scientific research in an area that was important to me. I took a pay cut from my previous startup job, but I'm actually happy to go to work every day. The stakes feel lower, since it's not a race against finding product-market fit before the money runs out. At the same time, the victories feel great, because we're saving people's lives rather than selling them useless SaaS products. I can explain what my company does to people, my timelines are on the order of months rather than weeks, there is less of a feeling of constant panic, less cargo cult management style, etc.
+
+The downsides are that the salary isn't fantastic (nor is it terrible), the career ladder doesn't go super high (fine with me) and the software side of the company is more rudimentary than I'm used to, since software is not their main focus.",analysis,
+"The law should be written that if you caught violating the terms and spirit of the h1-b visa program, you give up right to participate in h1-b sponsorships for x number of years.  H1-B is oversubscribed and if you suspend someone like Tata, it will help alleviate that issue.",hot_take,
+"You’re right. It’s all part of the natural business cycle, it seems.
+
+As the power shifts to the employees, it becomes possible for employees to reduce output with impunity. Employers don’t have much choice, since you can barely fill the positions you have. It’s more expensive to replace a low performer than to just keep them.
+
+But if some employers are forced to do layoffs, citing the economy, other employers definitely can seize this opportunity to embrace the power pendulum swinging back.
+
+As some anecdata for seasoning, some of the higher ups at Salesforce told me they were pretty ticked off about how the employees seemed to have declined in engagement and productivity. So I bet this is a joyous occasion to let the bottom rung go and move the power pendulum back to the employer. You drop the bottom and expect more from those left. Double win.",hot_take,
+"The issue with layoffs is that it's not just the low performers being fired. Typically managers are given a preference or salary amount that has to be cut. Inevitably the low performers are the first to be out on the list, but often times they'll also cut some of the high projects because they're making too much money. This even assumes that it's the managers making the decisions. If not, what happens is that layoffs are random message by someone outside the department and you can get stuck with low performers",analysis,
+"Pro tip: If you want a reply to your application, try to avoid cold emailing hiring managers your resume. Often my inbox has a lot happening, and I'm not inclined to spend time copying your resume into our hiring software unless there is something spectacular about your email or background. Emailing hiring managers out of the blue also will not help you bypass any steps in the hiring process.
+
+By filling out the application form on our website, you load all the information into the form for me, and are guaranteed that a recruiter will follow up on your entry. If you want to send an email to the hiring manager as well to explain why you are so awesome, that's fine, but it's probably not going to help your chances of getting a job any more than just applying.",analysis,
+Amortization is bad policy when it comes software. Software is inherently high risk. Every piece of software is unique and does not guarantee steady income over 5 years. Most startups won't survive 5 years to fully realize the deductions. This is the end of US software dominance.,hot_take,
+"Japan: It's very hard for companies to lay off employees here, and I haven't seen any reports of large layoffs in the Japanese business press. However, a lot of IT work is subcontracted to smaller companies, and cutbacks in subcontracting might not make the news. Employment cutbacks by smaller IT firms might  fall under the media radar, too.
+
+The picture of the overall employment situation as conveyed by the news media here is of a tight labor market and of difficulty for companies in finding and retaining employees.",analysis,
+"""About 10% of the global workforce will be affected ... the move is not meant to cut costs and that the company expects to re-hire the same number of employees,""
+
+Sounds like Sasan is copying Elons approach to management",analysis,
+"I created an account just so that I could comment.
+
+I'm not a dev although perhaps in a few years hope to pivot to the field in some capacity. I do however work closely with devs, product, etc and i'm n the engineering space. Having said that, perhaps you could use this as an opportunity to solve this problem. What does that look like? Writing a book on the matter to help others since you do have a lot of experience and could possibly partner up with others in the field in the same kind of situation, creating a course, an app (there are endless amounts that focus on mental health and wellbeing but how many that are more focused on those in engineering disciplines?).
+
+I have dealt with depression and an anxiety disorder in the past. I have helped some friends and family members learn to cope and overcome as well. By no means am I an expert but I do have some insight that I share with anyone willing to listen so that they can better maneuver around it rather than avoid it entirely and make it more difficult for themselves.",reaction,
+"> I've reached the later stages of interviewing with multiple companies...
+
+Force rank the opportunities.  ONLY invest your time in the top 2-3 that you're serious about.",hot_take,
+"Won't this just encourage both parties to choose arbitrarily wide ranges, which would cause the first filter to always pass? This would just get us back to where we started, where someone has to say a number first.",hot_take,
+"“If layoffs don’t work, what is a better solution for companies that want to mitigate the problems they believe layoffs will address?
+
+One thing that Lincoln Electric, which is a famous manufacturer of arc welding equipment, did well is instead of laying off 10% of their workforce, they had everybody take a 10% wage cut except for senior management, which took a larger cut. So instead of giving 100% of the pain to 10% of the people, they give 100% of the people 10% of the pain.
+
+Companies could use economic stringency as an opportunity, as Goodnight at the SAS Institute did in the 2008 recession and in the 2000 tech recession. He used the downturn to upgrade workforce skills as competitors eliminated jobs, thereby putting talent on the street. He actually hired during the 2000 recession and saw it as an opportunity to gain ground on the competition and gain market share when everybody was cutting jobs and stopped innovating. And it is [an opportunity]. Social media is not going away. Artificial intelligence, statistical software, and web services industries – none of these things are going to disappear. “
+
+If this was true, all that is missing is true leadership. Would people here take a 10% pay cut if it meant their colleagues weren’t fired?",analysis,
+"Having a decent linkedin profile, and getting regular contacts by recruiters on linkedin is the way.
+
+Those recruiters tend to be internal recruiters working directly for the company, which I find less pushy/annoying to deal with, and they tend to be already somewhat keen on you by the time they contact you, because they have already decided you are an appealing candidate. They'll generally fast-track you to an interview, not make you fill in some long ATS application form, keep in contact regularly, etc. - it is a much better experience than cold ""applying"" via an ATS / workday portal and having that go into a black hole.
+
+I'd say, if you're not regularly getting recruiters contacting you on linkedin every week, your profile isn't very good and you should fix it until you do.
+
+It amuses me a bit when people complain about linkedin post in the newsfeed being lame (which they are), or reminiscing about the old days when people would have their email addresses next to loud warnings saying ""do not contact me if you are a recruiter!!!"".
+
+It turns out, the only thing worse than being contacted by recruiters is not being contacted by recruiters. It only takes a second to respond with a polite ""no thanks, not looking right now, maybe another time!"", and it is far easier to start engaging with a steady stream of regular contacts than trying to create that stream when you need it.",analysis,
+"One thing I feel is worth pointing out is that in my experience a position that seems really interesting because it's in an ""interesting"" field...might not be.
+
+For example, you see a job posting at AwesomeCorp doing blockchain-based AI security arbitrators, and then you get the job and discover that you're just writing a CRUD app around a bunch of premade solutions glued together, and then you discover the ""blockchain"" is just an SQL server, but it got investors excited so they stuck with it.
+
+So, sometimes a job in a less sexy field can actually end up being more interesting/challenging, and getting paid more is always nice.",analysis,
+How about personal trainer? Definitely get to stay away from the computer and it's a highly technical profession (if you choose to be highly informed about the body and nutrition) so it should still satisfy the engineer/programmer in you.,hot_take,
+"Do you think if the engineers took lower salaries, that money would go to front-line workers instead?",hot_take,
+"My perception is the globally the economy is slowing. But different areas are faring very differently. By areas I mean both geographically and in terms of application domains. There still are lots of problems in search of solutions. But if all you have is CS knowledge then it is hard to differentiate yourself from others with comparable qualifications.
+
+I think that knowledge of specific application domains is one way to differentiate. Broaden your areas of interest and demonstrate some relevant experience.",analysis,
+"This really is the worst way to treat your employees, if I was one of the lucky people who was told to continue as if nothing had happened I would do everything I could to get another job somewhere else asap.
+
+Corporations need to show more respect to their employees, outsourcing to india and then forcing the current employees to train the people replacing them is no way to treat people.",reaction,
+"I sent an email a year or so ago about their unpaid pre-interview homework project (a non-starter to me).  I got back an email from a real person, though I didn't pursue it because of the homework and an unrelated issue.",analysis,
+"In tech I think there has been  a social expectation to appear like you are growing over all else.
+
+Low performers weren’t fired, product lines that weren’t successful weren’t shuttered, etc all because one of the goals was to have a line going up and to the right on the growth slide because market sentiment demanded it.  The CEO wants to talk about 3x-ing the company at the annual meeting.
+
+Now that investors don’t have as much cash to burn, market sentiment demands the shuttering of unprofitable business plays and a narrative around a more rational headcount.
+
+So we are seeing both.   A manager who grew their team 3x during the pandemic is just dumping their mishires that were difficult to fire in the we must grow above all else meta.   In other cases companies are shutting down entire business lines and laying off both high and low performers in a mass cull (some places transfer out the high performers before the layoff others just shutter the division).",analysis,
+"Working for a UK company here, although remotely from another country, making around $90k as a lead engineer in a somewhat specialized field.
+
+Seeing as salaries are constantly rising due to WFH being so common, and with anecdotal data from this thread, I'm feeling I might be underpaid (closing in on 10 years of experience on top of CS diploma and an MSc).
+
+So my side question is, how do you target high paying positions without having to go through a LC type interview in a FAANG company? Recruiters who reach out to me on Linkedin avoid the salary question usually.",analysis,
+"There are a few paths forward for you, and a lot hinge upon your skills outside of security (somewhat your morality).
+
+Computer security is a lucrative field, and a broad one.
+
+You could continue the bug bounty approach, which leads into vuln selling (with the attendant morality questions). You could go into systems security research, a long term project but worthwhile intellectually. You could contract (needs networking and business), you could FAANG (needs patience and soft skills), you could government (needs patience and more patience).
+
+My advice: don’t rush. You have at least 50 years of career ahead of you. The decisions you make now will influence your direction for years, but there’s very little you can do to completely derail your future. Try some things, see what resonates and clashes and learn more about you.
+
+Context: 25 years in computer security in a variety of roles, currently FAANG, currently management. My 17 year old self would likely be somewhat surprised at my circumstances, but hopefully not upset :)",analysis,
+"Many of these businesses are also predictably linked to the broader economy - ticketing at Eventbrite, reservations/shopping for Yelp.  It would be prudent to keep a cash stockpile for the inevitable cyclic downturns.
+
+Full disclosure, I worked at Eventbrite two years ago.",analysis,
+"In 2000 I was writing chapters for programming books with Wrox Press, I think they could have taken as much as I could have written, but consulting work paid better.  I got a job working remote for an MIT MBA and McKinsey alumni developing a chat service aimed at Portuguese speaking markets (esp. Brazil.). I was also spending a lot of time doing activism for the green party and worked as an enumerator for the 2000 census.
+
+The Brazil gig ended and my wife and I decided to have a kid anyway, finding a real job took a while, particularly six months of working to get an academic organization to create a line item to hire me, but I got a job (starting summer 2002) that lasted five years until my whole university had a financial crisis.
+
+For maybe a year after I got hired we had Bay Area refugees showing up in town and hiring them for web development,  I think the hype train pulled out of the station by 2003 or so.",analysis,
+I work at US based company and I earn $900k. Remote work has been a boon to me.,analysis,
+"It’s all about who has the better 2nd option.  How long will it take them to find someone else like you at the rate they want to pay?  How long will it take you to find the pay you want somewhere else?
+
+The best thing you can do is find another alternative at the rate you want.  Then you can say, “I want to work for you.  You are my first choice.  Just please match my other offer.”
+
+The other offer shows you are coming from a position of strength, and validated your market price.",hot_take,
+"It is important to separate challenges of ""second level"" (sometimes called director level) management from ""first level"" (sometimes called line level) management. If you will be managing managers, that requires you to be able to evaluate their group as a unit much like a line manager needs to evaluate employees for their effectiveness. Group effectiveness is very biased by management style and communication.
+
+I wouldn't read too much into the fact that you'd be replacing a manager who is already working there. One of the ""perks"" of being a manager is that you have a big target on your back when it comes to overall organizational goals and morale. Scott McNealy used to joke ""one step up, one step closer to the door."" because directors and executives don't fire individual contributors, they fire managers when things aren't working out. And there are a ton of reasons that things might not work out, not the least of which is that the manager's manager can't effectively communicate ""through"" them. It can be a leadership style, it can be mutual respect, it can be different baggage that each of them are carrying from previous experiences.
+
+What is important for you to understand in the interview is the sort of communication issues that got this person into trouble, you need to know that so you can evaluate how likely it is that you're communication style would be compatible. Some senior managers will say ""get it done"" and some will be very prescriptive about how (aka micromanaging) and some will be open to feedback and others will consider feedback insubordination.
+
+Understand what they expect (both things they expect someone to do, and things they are expected NOT to do in that role) and how they evaluate what they see. Then ask yourself if you feel like you can live in that system or not.",analysis,
+"Taxes are too variable from person to person, so when I talk salary, I talk gross, and in my head I know about what my tax rate will be and I figure accordingly.",hot_take,
+"I can only speak for the UK, but the tech market is very different here. We don't really have large tech companies like in the US. Most tech work in the UK is in sectors like finance, retail, or public sector. While our economy isn't great and there are lay offs it would be wrong to call it ""tech layoffs"".
+
+We have some tech startups here too though, and those are obviously struggling right now, but startups don't normally lay people off, they simply fail, and that happens all the time anyway.
+
+However, where it is like the US is in the way tech hiring has dropped off a cliff. So if you're working at a startup and the startup fails, or if you're a contractor and your contract isn't renewed then you're going to find it extremely hard to find work right now. I'm getting a lot of messages from ex-colleagues at the moment struggling to find work but thinking about it I don't know anyone who actually got laid off unless you're talking about long-term contracts not being renewed.
+
+The only sector that seems completely fine is public sector work, but there's just not enough public sector work to go around.",analysis,
+"If health is your true concern, then lookinto making yourself a healthier office. Check out spolsky's offices for instance -- much healthier than typical",hot_take,
+"Related: https://news.ycombinator.com/item?id=33677860
+
+There are legal versions of that approach.",hot_take,
+"In the US it's always pre tax and generally annual whereas in Europe it's often post tax and monthly in many cases.
+
+I respect the European model but the US model is not going away since taxes are situation dependent and culturally folks have a different attitude about taxes",analysis,
+"What about professional photography? While the industry as a whole is currently in flux, there are several technical aspects which often come naturally to hackers/math types.
+
+If you truly learn the craft and work hard at marketing, you can create something of high value to others–be it art, helping other companies (through commercial work), telling stories (journalism or editorial), or personal (portraits/weddings).",hot_take,
+"For foreigners I'd like to mention that hiring
+Mexicans and Canadians is pretty easy with the TN visa.
+
+http://en.wikipedia.org/wiki/TN_status",analysis,
+"> i'm talking about netscape and jamie zawinski, xerox and alan kay, l0pht and mudge, valve and gabe newell. legends.
+
+And you're surprised that not everybody is a legend?
+
+You made up you opinion based on a very small and very unrepresentative sample.
+
+> entering the industry in the early to mid 2010's i found a landscape filled with self serving product managers, conmen (i think they call them executives and MBAs), and a populous of engineers that cared nothing for the tech or the work, and didn't need to as there were no real challenges to tackle.
+
+My experience is different, much better. However, we're not playing with Legos, we have to make money.
+
+Different companies make money in different ways. Some do it by tackling exceptionally difficult problems. Some do it by providing value. Some lie that they're providing value, or provide it to some people at the cost of others.
+
+Always look at the company's business model. For where your treasure is, there will your heart be also.",hot_take,
+"My current job search has been the longest and most difficult of my career (5 months so far). Caveats:
+
+- I’m only applying with climate tech companies
+
+- I’m trying to transition back to engineering after a detour into product
+
+- I’m trying to pivot into more hardware-focused roles
+
+Most companies I apply to don’t respond at all, and I’ve had about 6 phone screens, two technical interviews, and one “we’d love to hire you once we get the funding for this position sometime in June”.
+
+So from my perspective, the job market is awful, but YMMV.
+
+P.S. if you’re working on any clean energy related software, I’d be a great addition to your team — https://matthewgerring.com",analysis,
+"Just ask your friend how much you should be making at Google, he works there after all. Then try to get that.",hot_take,
+"I have 2-3 years of professional software experience. I've been unemployed for 4 years, barely able to get a response from employers, let alone interviews, let alone a job. My response rate (even just a rejection email) from applying to jobs has gone from an average of ~35% down to an average of ~18%. Numbers wise, the job market is very frustrating for me.
+
+I apply everywhere in the US, and at this point I consider it a success if I get a rejection email, since that's getting pretty rare. The only recruiters who reach out to me are very clearly shotgun recruiters who have not read my resume and bring positions which are obviously looking for a different type of applicant.
+
+I know I can do the work. Half of my friends work in software or software adjacent roles. I'm at least as capable as them, and, based on how much they have to complain about them, more capable than some of their coworkers.
+
+So, I don't know what the issue is. Clearly I'm not good at marketing myself, but what exactly to change, I'm not sure. I know the 4 year gap looks awful to recruiters, but it's not getting any smaller and I didn't choose it willingly. At this point I'm just mindlessly sending out more resumes, because I don't know what else to do.",reaction,
+"Definitely the latter.
+
+However, I'd also take 50% and a 5-day week, if the team was guaranteed to be as pleasant to work on as the best team I've worked with.",hot_take,
+"I think the fact that companies like Klarna are downsizing is good overall. Klarna literally offers nothing but interest free loans (3 instalments typically), and they tear out your eyeballs if you miss the payments with ridiculous interest rates. Their normal business model makes zero profit, and they solely depend on people missing payments so they can gouge them. Clearly not viable at all...",hot_take,
+"This is not new. Most orgs would only be allowed to take SDE1s directly out of college. In fact, things started sucking so bad for our ability to hire in the past few years that those new grads would go through a much more automated/lightweight process that included no bar raisers.",analysis,
+"The first thing to note is that your position with regards to this has not changed. As he is still with the company he still has the contacts. Thus if this seemed ok when you were employed then it is still ok. The relationship has not changed.
+
+However I do note that there is some hesitancy in your part to the signing. I'm not too sure about this 50/50 split thing. Sure the contacts he can give you might get the company started, and it is only a might at this point but they are of a limited usefulness as time passes.
+
+Once you use those contacts you still have a great deal of work ahead of you. And in all likelihood you will need to make other contacts yourself. But he will still get 50% of the revenue.
+
+Points to remember
+1) even if those contacts turn out to be completely useless he has 50% of the revenue from here to eternity
+2) even if the contacts are good you still have a great deal of work and sacrifice ahead of you, neither of which he will undertake, but he still gets 50% of the revenue for doing nothing
+
+I wouldn't trust this person unless he can show what he can bring to the table is more than his address book.",analysis,
+Somebody somewhere is doing your dream job as a bridge to doing their dream job.,hot_take,
+"Please read this: (this is why I was able as a very socially awkward college student not stumble through the first job search):
+
+http://www.collegegrad.com/interview/thankyouletterafterinte...
+
+Sending a Thank You email takes almost no effort. Sending a Thank You letter in the mail takes a bit of effort. Consider a job fair where a recruiter gets a hundred resumes. Could sending a sincere Thank You note in the mail possibly make you stand out from the crowd? Most especially in these days of longer hiring cycles where the difference between a minute of effort to send an email and the ten minutes to write, print, sign (with blue ink to contrast from black printer ink), and mail might make a difference.
+
+There is a better site and a book, http://collegegrad.com that really exposed the behind-the-scenes of hiring because it was written by a hiring manager. Pretty much everything I'm saying here has been paraphrased. As the site says, the secret to an effective Thank You letter is to restate your interest in the position after thanking them and most important have a future promise to follow-up: ""I will call you next Wednesday at 3pm to discuss this further"" Even if you don't get the person on the line, by calling when you said you would - you earn professional credibility.",analysis,
+People who can be micro-managed and used as resources. People who will do the job.,hot_take,
+"Strongly recommend insurance or financial services in general. Many are flexible with remote work, and some are now fully remote. The meeting load is moderate, but the actual work load is low, timelines are very long and low on stress. Plus, health insurance benefits are usually decent.",analysis,
+"I always found the idea of DEI positions underwhelming. It's as if company had a VP of Tech Debt, or a Chief Accessibility Officer. My conclusion would be that code quality and accessibility aren't actually that important to such a company.",hot_take,
+From the Great Resignation to the Great Layoff. For the first time in 50 years workers started to have some leverage on employers and it only took a few months for the coordinated response to shut it down.,hot_take,
+"Do your own company. Hire people. Do projects for clients. I did this and I'm pretty happy. Most projects have been interesting. Some clients have been difficult, some are great and with those we stick. The team is happy. We hire young and old; finally hiring without discrimination (or so I hope) and happy about the results. Now we're in a stage where we can be picky about which projects to accept. We start having some time for our own ideas as well.
+
+Just expect a very tough first year :-)",analysis,
+"Part of the H-1B process is to prove you (hiring company) can't find and equal American citizen to come work for you.
+
+During a downturn in the tech sector, while companies are boasting about ""cutting the fat"" in their workforce by the tens of thousands. I'd assume it's much easier to find a citizen than it was a few years ago
+
+The companies admitting they over hired by thousands, also includes them claiming they needed immigrants they do not really need.
+
+This[1] article estimates 2,000 of the 23,000 tech workers laid off in November 2022 had H-1B visas. According to the U.S approach to immigration we should all be prioritizing the 21,000 non-visa holders before we try getting people more jobs so they can keep their visa
+
+https://techcrunch.com/2022/11/11/answers-for-h-1b-workers-w...",analysis,
+"In case you are catching up on this thread before your interview:
+
+Here's an example of what they will ask you if when you apply for a job in the AI team:
+
+https://medium.com/acing-ai/microsoft-ai-interview-questions...
+
+Here are some example questions which they will ask in general (hint: you will definitely need some pretty deep insight in algorithms and data structures):
+
+https://www.interviewcake.com/microsoft-interview-questions
+
+Even more here:
+
+https://www.geeksforgeeks.org/microsoft-interview-preparatio...
+
+And here's a Quora question about how to prepare with a response from a SDET (Microsoft-speak for ""Test Engineer""):
+
+https://www.quora.com/How-should-I-prepare-for-a-Microsoft-i...
+
+Hope this helps, and good luck with your interview!",analysis,
+"Given the amount of times I've seen your question pop up, along with other vaguely related ones concerning the job market writ large, there's a lot of justified fear that this isn't a viable career path at all anymore.
+
+I'm not a junior, or a grad, but I do have a shit resume that in total contains about 5-10 years of varied experience. I've been unemployed for a year, and am considering alternatives, like being a real garbage collector or electrician if I can find a way into those.
+
+I'd note also that most of the responses in this thread are the same that Jon Stewart just lampooned in his recent episode on AI, with most CEOs describing how AI is actually a huge productivity boost and the best thing for humanity since literal fire, or that people will need to retrain to become ""prompt engineers"" (laughable, and why would you want to do that anyway). Anyone with an optimistic take still has a job, and everyone else doesn't see one coming along any time soon.
+
+That said, there is way too much hype imo, I've found some use for ChatGPT and anticipate that there will be more, but it's mostly boilerplate or explaining things that already have some explanation somewhere. Asking for a solution to some performance problem that nobody's really documented anywhere hasn't proved useful, it'll just imagine something. It's not documenting Apple APIs that Apple themselves haven't bothered with, but it'll generate approximately passable examples of AppKit stuff that have been on the internet forever, and that's a great starting point for solving more interesting problems.
+
+I do feel like most of the impact on the market is due to interest rates and layoffs, and there being a lack of profitability in most software anyway. The nature of the problem however doesn't remedy the fact that it'll be way way more competitive than it already was, and if you hadn't run the interview gauntlet prior to 2023, you sure as hell won't want to run it after 2025.",hot_take,
+"I've been coding for 12+ years at some top tech companies. I think salaries will drop like a rock for anyone that is not absolutely top knotch. Claude 3.5 Sonnet can code a near perfect UI widget from a screen shot. The game is over on this whole thing, software development as we know it is over.",analysis,
+"I'd like to see more comparative data within articles like this in general. For example, what number of people worked in tech during the dot-com bubble era versus today, and in which areas were layoffs more frequent during each time? And what were the percentage of layoffs in each area then compared to now?",analysis,
+"My first regular full-time job (not fast food) 
+5.4 / 12 years
+
+If we want my year of fast food it's 10 / 13 years",analysis,
+"I’d argue that a number of these aren’t tech companies. No more so than any other companies who happen to employ developers.
+
+There are also a few, like Cameo, who can only exist in a boom economy.
+
+Still it’s terrible for the people who are losing their jobs.",hot_take,
+"I don't know about France, but in the U.S., those complaints just mean it's become difficult to get H1B workers, not that they feel the need to pay anybody any more.
+
+The hope is that their complaints will be answered by a Republican congress allowing them more cheap, disposable labor, not a recognition that labor generally needs to be paid more.",analysis,
+"There are plenty startups that sponsor H1-Bs.  Sponsoring an H1-B is not the bottleneck sometimes when it comes to hiring.  Even small consultant shops with less than 5 people do H1-Bs. But many applicants will want to think twice about it in case they plan on applying for employment based permanent residency.  An H1-B is valid for three years and can be extended for another three for a total of 6 years.  After that you can continue to extend it IF you have a permanent residency application that is pending.
+
+The issue for startups happen when you take a permanent residency application into account.  For instance, I had a friend who got into two great startups who were willing to sponsor H1-Bs.  He really wanted to work at either.  However, he also wanted to apply for his permanent residency within 2 years to continue staying in the US.  However, a company needs to have certain revenue (besides other minimium requirements) to be able to apply for a green card.  Both the companies checked with their lawyers and they did say that it was a big risk factor when it came to applying for a permanent residency.  So he actually ended up passing both offers.
+
+In retrospect he would have been fine since both companies ended up getting acquired by Intel and Google, where he would have been fine.  But that is part of the risk involved.",analysis,
+"I'm not sure about other niches, but it seems to be fine in HPC. I'm getting more recruiters messaging me on LinkedIn than ever.",analysis,
+"Try getting a fulltime job if you can. You don't need to join college for CS education imo. There is not much benefit of a college degree unless it's from a elite/great college. The best resources to learn CS are online ex. https://teachyourselfcs.com/ is a good resource to self learn. Imo unless you want to go into academia you don't really need a degree atleast for software/security jobs. As far as socializing and learning soft skills is concerned, it can very easily be done in a job as well, you don't need to go to a university for it. Even better get a remote job or go backpacking around the world and you can fast track all those 4 years of socializing skills in a few months as well.",hot_take,
+"As a Former H-1B holder I'm really surprised how few people think about the intention of the program: A temporary worker program to bring highly skilled labor into the country (or allow them to stay longer) (temporarily) as demonstrated by the needs of a specific employer.
+
+Let's not pretend there is some huge injustice here. This is a risk we must take into account as immigrants.
+
+None of us have the automatic right to stay and work here, and that isn't the intention of the program. Immigration is not a right, it is a privilege.",analysis,
+"How worried should an entry level developer who has been working only 6 months at his current company be? Due to an extremely high cost of living, paying all my bills and student loans and such, I have very little money actually saved up. If I lost my job I'd have to pack my bags and move out of Silicon Valley ASAP. And I really haven't accomplished that much at work during the past 6 months because I joined during holiday season and pretty much spent like 3 months training. I'd be really fucked if I got laid off now.",reaction,
+"There's an adverse selection problem with today's public markets.  If you're profitable, in a solid and sustainable business, you a.) usually don't need more cash b.) if you do need more cash, there are plenty of private investors that will give it to you, c.) don't want to disclose your profitability to attract competitors and d.) don't want to spend the multi-millions per year for SOX compliance.  So the only reason you have for going public is to unload your shares in an unsustainable business before the rest of the world realizes it's unsustainable.  Hence, that's what we get on the public markets.
+
+There are definitely profitable tech companies out there which are still hiring, but they are largely private.  Some may have $35B valuations and a few thousand employees, but don't find it worthwhile to go public.",hot_take,
+"Layoffs are bureaucratic in Spain, needs to be approved by unions and sometimes government too (EREs) (1)
+
+Considering how lowly paid SWEs are in this country, I'd imagine the company would be better off keeping them on payroll.
+
+1: https://www.wolterskluwer.com/es-es/expert-insights/que-es-u...",analysis,
+"In the mean time Intuit raised the prices of QuickBooks desktop ""subscription"" about $100 :( to $694.43 (yes, to the penny).",reaction,
+"It was dead as a doornail the last six months. It had a little bit of life in August, then it fell off a cliff. Zero. Only fake job postings, ghost posts, fake interviews, interviews at weird companies and interview loops for information espionage only pretending to be real interviews with no intent to hire.
+
+In the last couple weeks a couple decent, actually real, roles showed up versus the fake / ever posted roles or spam posted roles to ""pretend to be hiring"" by companies trying to pump their IPO or whatever.
+
+It has been brutual.
+
+I dont think its ""because of AI,"" Its because the economy is dying.",analysis,
+"These figures look pretty good to me:
+
+https://www.bls.gov/news.release/empsit.t01.htm",analysis,
+"Side bar: I've been back in the UK for a longer spell for the first time in years, and the number of adverts for ""blue collar"" jobs I've seen just walking around is unreal.
+
+So many places looking for kitchen staff, waiters, carers etc. Might just be that I've been in smaller towns with leaner recruitment pools, but it's been striking.",analysis,
+I received 155 resumes for the last postion I posted it would be too time consuming to reply to every single one. However I always contact all candidates by phone that came in for an interview to let them know we have chosen not to pursue them for the position.,analysis,
+"Gergely Orosz's theory[1]:
+
+> An IRS tax code change in Section 174. This change eliminates the ability for businesses to deduct R&D as an expense.
+
+> Hear of lots of layoffs directly because of this, as a start.
+
+[1] https://twitter.com/GergelyOrosz/status/1735030983173230944?...",analysis,
+"Sorry to hear about your situation. It really sucks.
+
+I don't have a specific answer to your question, but a couple of stray thoughts:
+
+1. You could attempt to find an open source project of interest to you, and start contributing, make yourself part of the community, make some friends so to speak. If/when you later confide your secret, you're already known and proven yourself to the community, and will probably be received in a much more positive light.
+
+Not sure where that leads you, but a network is always useful. Maybe you can raise money and get paid to maintain that software. Maybe your community will endorse you to your new employers.
+
+2. You are more likely to be employed in projects that involve the penal system, in which case your handicap turns itself on its head, and becomes ""insider experience"". I've seen many startups and charities relating to this. Perhaps there's an ML project out there in this topic that would greatly benefit from your insight.",reaction,
+"I can relate, as I started my career at 16, setting up a small ISP from scratch without any prior knowledge of computer networking and doing the work remotely, part-time since recently when the company was acquired by a larger ISP. They had about 2000 subscribers when they sold it.
+
+Besides that, I've worked full time on Linux administration at a large scale and in the last years on cloud architecture. When starting university, my colleagues were all envious of me because I was working on interesting stuff and because I had a steady income, but I don't know if the sacrifice of not having a life during high-school was worth it.
+
+Some advice to my younger self:
+- enjoy your young, no-care-in-the-world years and experiment as much as possible outside work and jobs; this will come in handy later on because you will end up working with people
+- try finding a bachelor and master that can deepen your knowledge on the subject; for various reasons I've picked telecom and now I regret not picking CS for my current day-to-day job. I made the right choice by picking a networking master's
+- if in or near Europe and if you like traveling, search for Erasmus+ exchanges during high-school and university years
+- there are lots of certifications that can give you insight on the industry you're on. For example, I've only learned about Cisco certifications years after working in the networking field. Why? One constraint was budget and I initially implemented everything using Linux and cheap switches.
+- don't get hired full-time early (this I'm glad I didn't do), because there will be plenty of time to climb corporate ladders. A few of the university colleagues are now on a higher corporate level than me, but should I care?
+
+TL;DR enjoy your young years and don't sweat it too much by working during university; you're way ahead of everyone else and will easily land a job when the time will come.",analysis,
+"This article is very confusing to me. If we are concluding that startups are laying off due to funding squeeze, how is that San Francisco actually saw a decrease in lay offs ? SF is where most of the startups are based. Also, it says that layoffs totaled roughly 3000 in 4 months. Which comes down to 750 a month. Compare this to what the article said later that 32,000 jobs were lost per month during the recession. Finally, I couldn't figure how many jobs were added in this period, to get a context of the layoff percentage. Seems a little alarmist",analysis,
+"As someone who got laid off a few months ago, that's sucks and good luck!",reaction,
+"4-day week, no contest. I'd probably do it for 67% salary, tbh.",reaction,
+"About 800 (eight hundred, not a typo) dollars / month. ""Exec"" at the company. Company charges around 1,800 dollars/day for my work to clients. Overseeing the company, the whole product lifecycle, hiring, sales, operations, architecture, copywriting.
+
+No equity.",analysis,
+"The US economy added 500k jobs last quarter, so there isn’t really a social crisis",hot_take,
+"People should look on the bright side.
+
+The dot-com crash was brutal. Brighter days followed.",hot_take,
+"Also mid-late 30s, work in finance / NYC, hit a bit of a plateau salary + skills-wise that I am trying to work through, also hoping to avoid management, here are my thoughts.
+
+* Staying focused on long-lived, core technologies, C++/Java/Python. I'm not too interested in chasing AWS/docker/Kubernetes or anything with a half-life approaching that of a js framework.
+
+* Need to add new skills. For me, coming up to speed with kdb+/q. I realize that while I have gained breadth / experience with my skills, it had been too long since I have added an entire new ""bullet point"" / category to my resume.",analysis,
